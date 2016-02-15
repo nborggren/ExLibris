@@ -1,0 +1,94 @@
+\BOOKMARK [0][-]{chapter*.1}{Preface}{}% 1
+\BOOKMARK [1][-]{section.0.1}{Who is this book for?}{chapter*.1}% 2
+\BOOKMARK [1][-]{section.0.2}{Using the code}{chapter*.1}% 3
+\BOOKMARK [0][-]{chapter.1}{Sounds and signals}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Periodic signals}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Spectral decomposition}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Signals}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{Reading and writing Waves}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.5}{Spectrums}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.6}{Wave objects}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.7}{Signal objects}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.8}{Exercises}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{Harmonics}{}% 13
+\BOOKMARK [1][-]{section.2.1}{Triangle waves}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.2}{Square waves}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.3}{Aliasing}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.4}{Computing the spectrum}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.5}{Exercises}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{Non-periodic signals}{}% 19
+\BOOKMARK [1][-]{section.3.1}{Linear chirp}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{Exponential chirp}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{Spectrum of a chirp}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.4}{Spectrogram}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.5}{The Gabor limit}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.6}{Leakage}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.7}{Windowing}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.8}{Implementing spectrograms}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.9}{Exercises}{chapter.3}% 28
+\BOOKMARK [0][-]{chapter.4}{Noise}{}% 29
+\BOOKMARK [1][-]{section.4.1}{Uncorrelated noise}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.2}{Integrated spectrum}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.3}{Brownian noise}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.4}{Pink Noise}{chapter.4}% 33
+\BOOKMARK [1][-]{section.4.5}{Gaussian noise}{chapter.4}% 34
+\BOOKMARK [1][-]{section.4.6}{Exercises}{chapter.4}% 35
+\BOOKMARK [0][-]{chapter.5}{Autocorrelation}{}% 36
+\BOOKMARK [1][-]{section.5.1}{Correlation}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.2}{Serial correlation}{chapter.5}% 38
+\BOOKMARK [1][-]{section.5.3}{Autocorrelation}{chapter.5}% 39
+\BOOKMARK [1][-]{section.5.4}{Autocorrelation of periodic signals}{chapter.5}% 40
+\BOOKMARK [1][-]{section.5.5}{Correlation as dot product}{chapter.5}% 41
+\BOOKMARK [1][-]{section.5.6}{Using NumPy}{chapter.5}% 42
+\BOOKMARK [1][-]{section.5.7}{Exercises}{chapter.5}% 43
+\BOOKMARK [0][-]{chapter.6}{Discrete cosine transform}{}% 44
+\BOOKMARK [1][-]{section.6.1}{Synthesis}{chapter.6}% 45
+\BOOKMARK [1][-]{section.6.2}{Synthesis with arrays}{chapter.6}% 46
+\BOOKMARK [1][-]{section.6.3}{Analysis}{chapter.6}% 47
+\BOOKMARK [1][-]{section.6.4}{Orthogonal matrices}{chapter.6}% 48
+\BOOKMARK [1][-]{section.6.5}{DCT-IV}{chapter.6}% 49
+\BOOKMARK [1][-]{section.6.6}{Inverse DCT}{chapter.6}% 50
+\BOOKMARK [1][-]{section.6.7}{The Dct class}{chapter.6}% 51
+\BOOKMARK [1][-]{section.6.8}{Exercises}{chapter.6}% 52
+\BOOKMARK [0][-]{chapter.7}{Discrete Fourier Transform}{}% 53
+\BOOKMARK [1][-]{section.7.1}{Complex exponentials}{chapter.7}% 54
+\BOOKMARK [1][-]{section.7.2}{Complex signals}{chapter.7}% 55
+\BOOKMARK [1][-]{section.7.3}{The synthesis problem}{chapter.7}% 56
+\BOOKMARK [1][-]{section.7.4}{Synthesis with matrices}{chapter.7}% 57
+\BOOKMARK [1][-]{section.7.5}{The analysis problem}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.6}{Efficient analysis}{chapter.7}% 59
+\BOOKMARK [1][-]{section.7.7}{DFT}{chapter.7}% 60
+\BOOKMARK [1][-]{section.7.8}{The DFT is periodic}{chapter.7}% 61
+\BOOKMARK [1][-]{section.7.9}{DFT of real signals}{chapter.7}% 62
+\BOOKMARK [1][-]{section.7.10}{Exercises}{chapter.7}% 63
+\BOOKMARK [0][-]{chapter.8}{Filtering and Convolution}{}% 64
+\BOOKMARK [1][-]{section.8.1}{Smoothing}{chapter.8}% 65
+\BOOKMARK [1][-]{section.8.2}{Convolution}{chapter.8}% 66
+\BOOKMARK [1][-]{section.8.3}{The frequency domain}{chapter.8}% 67
+\BOOKMARK [1][-]{section.8.4}{The convolution theorem}{chapter.8}% 68
+\BOOKMARK [1][-]{section.8.5}{Gaussian filter}{chapter.8}% 69
+\BOOKMARK [1][-]{section.8.6}{Efficient convolution}{chapter.8}% 70
+\BOOKMARK [1][-]{section.8.7}{Efficient autocorrelation}{chapter.8}% 71
+\BOOKMARK [1][-]{section.8.8}{Exercises}{chapter.8}% 72
+\BOOKMARK [0][-]{chapter.9}{Differentiation and Integration}{}% 73
+\BOOKMARK [1][-]{section.9.1}{Finite differences}{chapter.9}% 74
+\BOOKMARK [1][-]{section.9.2}{The frequency domain}{chapter.9}% 75
+\BOOKMARK [1][-]{section.9.3}{Differentiation}{chapter.9}% 76
+\BOOKMARK [1][-]{section.9.4}{Integration}{chapter.9}% 77
+\BOOKMARK [1][-]{section.9.5}{Cumulative sum}{chapter.9}% 78
+\BOOKMARK [1][-]{section.9.6}{Integrating noise}{chapter.9}% 79
+\BOOKMARK [1][-]{section.9.7}{Exercises}{chapter.9}% 80
+\BOOKMARK [0][-]{chapter.10}{LTI systems}{}% 81
+\BOOKMARK [1][-]{section.10.1}{Signals and systems}{chapter.10}% 82
+\BOOKMARK [1][-]{section.10.2}{Windows and filters}{chapter.10}% 83
+\BOOKMARK [1][-]{section.10.3}{Acoustic response}{chapter.10}% 84
+\BOOKMARK [1][-]{section.10.4}{Systems and convolution}{chapter.10}% 85
+\BOOKMARK [1][-]{section.10.5}{Proof of the Convolution Theorem}{chapter.10}% 86
+\BOOKMARK [1][-]{section.10.6}{Exercises}{chapter.10}% 87
+\BOOKMARK [0][-]{chapter.11}{Modulation and sampling}{}% 88
+\BOOKMARK [1][-]{section.11.1}{Convolution with impulses}{chapter.11}% 89
+\BOOKMARK [1][-]{section.11.2}{Amplitude modulation}{chapter.11}% 90
+\BOOKMARK [1][-]{section.11.3}{Sampling}{chapter.11}% 91
+\BOOKMARK [1][-]{section.11.4}{Aliasing}{chapter.11}% 92
+\BOOKMARK [1][-]{section.11.5}{Interpolation}{chapter.11}% 93
+\BOOKMARK [1][-]{section.11.6}{Exercises}{chapter.11}% 94

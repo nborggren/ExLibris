@@ -1,0 +1,94 @@
+\contentsline {chapter}{Preface}{v}{chapter*.1}
+\contentsline {section}{\numberline {0.1}Who is this book for?}{v}{section.0.1}
+\contentsline {section}{\numberline {0.2}Using the code}{vi}{section.0.2}
+\contentsline {chapter}{\numberline {1}Sounds and signals}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Periodic signals}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Spectral decomposition}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Signals}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Reading and writing Waves}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Spectrums}{7}{section.1.5}
+\contentsline {section}{\numberline {1.6}Wave objects}{8}{section.1.6}
+\contentsline {section}{\numberline {1.7}Signal objects}{9}{section.1.7}
+\contentsline {section}{\numberline {1.8}Exercises}{11}{section.1.8}
+\contentsline {chapter}{\numberline {2}Harmonics}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Triangle waves}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Square waves}{15}{section.2.2}
+\contentsline {section}{\numberline {2.3}Aliasing}{17}{section.2.3}
+\contentsline {section}{\numberline {2.4}Computing the spectrum}{19}{section.2.4}
+\contentsline {section}{\numberline {2.5}Exercises}{21}{section.2.5}
+\contentsline {chapter}{\numberline {3}Non-periodic signals}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Linear chirp}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}Exponential chirp}{26}{section.3.2}
+\contentsline {section}{\numberline {3.3}Spectrum of a chirp}{27}{section.3.3}
+\contentsline {section}{\numberline {3.4}Spectrogram}{27}{section.3.4}
+\contentsline {section}{\numberline {3.5}The Gabor limit}{29}{section.3.5}
+\contentsline {section}{\numberline {3.6}Leakage}{29}{section.3.6}
+\contentsline {section}{\numberline {3.7}Windowing}{31}{section.3.7}
+\contentsline {section}{\numberline {3.8}Implementing spectrograms}{32}{section.3.8}
+\contentsline {section}{\numberline {3.9}Exercises}{34}{section.3.9}
+\contentsline {chapter}{\numberline {4}Noise}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Uncorrelated noise}{37}{section.4.1}
+\contentsline {section}{\numberline {4.2}Integrated spectrum}{40}{section.4.2}
+\contentsline {section}{\numberline {4.3}Brownian noise}{41}{section.4.3}
+\contentsline {section}{\numberline {4.4}Pink Noise}{44}{section.4.4}
+\contentsline {section}{\numberline {4.5}Gaussian noise}{46}{section.4.5}
+\contentsline {section}{\numberline {4.6}Exercises}{48}{section.4.6}
+\contentsline {chapter}{\numberline {5}Autocorrelation}{51}{chapter.5}
+\contentsline {section}{\numberline {5.1}Correlation}{51}{section.5.1}
+\contentsline {section}{\numberline {5.2}Serial correlation}{54}{section.5.2}
+\contentsline {section}{\numberline {5.3}Autocorrelation}{55}{section.5.3}
+\contentsline {section}{\numberline {5.4}Autocorrelation of periodic signals}{56}{section.5.4}
+\contentsline {section}{\numberline {5.5}Correlation as dot product}{60}{section.5.5}
+\contentsline {section}{\numberline {5.6}Using NumPy}{61}{section.5.6}
+\contentsline {section}{\numberline {5.7}Exercises}{62}{section.5.7}
+\contentsline {chapter}{\numberline {6}Discrete cosine transform}{63}{chapter.6}
+\contentsline {section}{\numberline {6.1}Synthesis}{64}{section.6.1}
+\contentsline {section}{\numberline {6.2}Synthesis with arrays}{64}{section.6.2}
+\contentsline {section}{\numberline {6.3}Analysis}{66}{section.6.3}
+\contentsline {section}{\numberline {6.4}Orthogonal matrices}{67}{section.6.4}
+\contentsline {section}{\numberline {6.5}DCT-IV}{69}{section.6.5}
+\contentsline {section}{\numberline {6.6}Inverse DCT}{71}{section.6.6}
+\contentsline {section}{\numberline {6.7}The Dct class}{71}{section.6.7}
+\contentsline {section}{\numberline {6.8}Exercises}{73}{section.6.8}
+\contentsline {chapter}{\numberline {7}Discrete Fourier Transform}{75}{chapter.7}
+\contentsline {section}{\numberline {7.1}Complex exponentials}{76}{section.7.1}
+\contentsline {section}{\numberline {7.2}Complex signals}{77}{section.7.2}
+\contentsline {section}{\numberline {7.3}The synthesis problem}{78}{section.7.3}
+\contentsline {section}{\numberline {7.4}Synthesis with matrices}{80}{section.7.4}
+\contentsline {section}{\numberline {7.5}The analysis problem}{82}{section.7.5}
+\contentsline {section}{\numberline {7.6}Efficient analysis}{83}{section.7.6}
+\contentsline {section}{\numberline {7.7}DFT}{84}{section.7.7}
+\contentsline {section}{\numberline {7.8}The DFT is periodic}{85}{section.7.8}
+\contentsline {section}{\numberline {7.9}DFT of real signals}{86}{section.7.9}
+\contentsline {section}{\numberline {7.10}Exercises}{88}{section.7.10}
+\contentsline {chapter}{\numberline {8}Filtering and Convolution}{91}{chapter.8}
+\contentsline {section}{\numberline {8.1}Smoothing}{91}{section.8.1}
+\contentsline {section}{\numberline {8.2}Convolution}{94}{section.8.2}
+\contentsline {section}{\numberline {8.3}The frequency domain}{95}{section.8.3}
+\contentsline {section}{\numberline {8.4}The convolution theorem}{96}{section.8.4}
+\contentsline {section}{\numberline {8.5}Gaussian filter}{97}{section.8.5}
+\contentsline {section}{\numberline {8.6}Efficient convolution}{99}{section.8.6}
+\contentsline {section}{\numberline {8.7}Efficient autocorrelation}{100}{section.8.7}
+\contentsline {section}{\numberline {8.8}Exercises}{102}{section.8.8}
+\contentsline {chapter}{\numberline {9}Differentiation and Integration}{105}{chapter.9}
+\contentsline {section}{\numberline {9.1}Finite differences}{105}{section.9.1}
+\contentsline {section}{\numberline {9.2}The frequency domain}{107}{section.9.2}
+\contentsline {section}{\numberline {9.3}Differentiation}{107}{section.9.3}
+\contentsline {section}{\numberline {9.4}Integration}{111}{section.9.4}
+\contentsline {section}{\numberline {9.5}Cumulative sum}{112}{section.9.5}
+\contentsline {section}{\numberline {9.6}Integrating noise}{115}{section.9.6}
+\contentsline {section}{\numberline {9.7}Exercises}{116}{section.9.7}
+\contentsline {chapter}{\numberline {10}LTI systems}{119}{chapter.10}
+\contentsline {section}{\numberline {10.1}Signals and systems}{119}{section.10.1}
+\contentsline {section}{\numberline {10.2}Windows and filters}{121}{section.10.2}
+\contentsline {section}{\numberline {10.3}Acoustic response}{123}{section.10.3}
+\contentsline {section}{\numberline {10.4}Systems and convolution}{125}{section.10.4}
+\contentsline {section}{\numberline {10.5}Proof of the Convolution Theorem}{128}{section.10.5}
+\contentsline {section}{\numberline {10.6}Exercises}{131}{section.10.6}
+\contentsline {chapter}{\numberline {11}Modulation and sampling}{133}{chapter.11}
+\contentsline {section}{\numberline {11.1}Convolution with impulses}{133}{section.11.1}
+\contentsline {section}{\numberline {11.2}Amplitude modulation}{136}{section.11.2}
+\contentsline {section}{\numberline {11.3}Sampling}{137}{section.11.3}
+\contentsline {section}{\numberline {11.4}Aliasing}{140}{section.11.4}
+\contentsline {section}{\numberline {11.5}Interpolation}{143}{section.11.5}
+\contentsline {section}{\numberline {11.6}Exercises}{145}{section.11.6}
