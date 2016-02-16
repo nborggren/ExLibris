@@ -1,0 +1,502 @@
+\indexentry{modeling|hyperpage}{vi}
+\indexentry{Poisson process|hyperpage}{vi}
+\indexentry{regression testing|hyperpage}{vii}
+\indexentry{thinkplot|hyperpage}{vii}
+\indexentry{numpy|hyperpage}{vii}
+\indexentry{scipy|hyperpage}{vii}
+\indexentry{PEP 8|hyperpage}{viii}
+\indexentry{contributors|hyperpage}{ix}
+\indexentry{conditional probability|hyperpage}{1}
+\indexentry{probability!conditional|hyperpage}{1}
+\indexentry{degree of belief|hyperpage}{1}
+\indexentry{coin toss|hyperpage}{1}
+\indexentry{heart attack|hyperpage}{1}
+\indexentry{conjoint probability|hyperpage}{2}
+\indexentry{probability!conjoint|hyperpage}{2}
+\indexentry{independence|hyperpage}{2}
+\indexentry{dependence|hyperpage}{2}
+\indexentry{Bayes's theorem|hyperpage}{3}
+\indexentry{cookie problem|hyperpage}{3}
+\indexentry{Bayes's theorem!derivation|hyperpage}{3}
+\indexentry{conjunction|hyperpage}{3}
+\indexentry{evidence|hyperpage}{5}
+\indexentry{diachronic interpretation|hyperpage}{5}
+\indexentry{prior|hyperpage}{5}
+\indexentry{posterior|hyperpage}{5}
+\indexentry{likelihood|hyperpage}{5}
+\indexentry{normalizing constant|hyperpage}{5}
+\indexentry{subjective prior|hyperpage}{6}
+\indexentry{mutually exclusive|hyperpage}{6}
+\indexentry{collectively exhaustive|hyperpage}{6}
+\indexentry{suite|hyperpage}{6}
+\indexentry{total probability|hyperpage}{6}
+\indexentry{M and M problem|hyperpage}{6}
+\indexentry{table method|hyperpage}{7}
+\indexentry{independence|hyperpage}{7}
+\indexentry{normalizing constant|hyperpage}{8}
+\indexentry{Monty Hall problem|hyperpage}{8}
+\indexentry{stick|hyperpage}{9}
+\indexentry{switch|hyperpage}{9}
+\indexentry{intuition|hyperpage}{9}
+\indexentry{divide-and-conquer|hyperpage}{10}
+\indexentry{distribution|hyperpage}{11}
+\indexentry{dice|hyperpage}{11}
+\indexentry{word frequency|hyperpage}{11}
+\indexentry{probability mass function|hyperpage}{11}
+\indexentry{Pmf class|hyperpage}{11}
+\indexentry{Pmf methods|hyperpage}{12}
+\indexentry{Prob|hyperpage}{12}
+\indexentry{cookie problem|hyperpage}{12}
+\indexentry{prior distribution|hyperpage}{13}
+\indexentry{Mult|hyperpage}{13}
+\indexentry{renormalize|hyperpage}{13}
+\indexentry{posterior distribution|hyperpage}{13}
+\indexentry{cookie.py|hyperpage}{13}
+\indexentry{Bayesian framework|hyperpage}{13}
+\indexentry{Update|hyperpage}{14}
+\indexentry{Likelihood|hyperpage}{14}
+\indexentry{Monty Hall problem|hyperpage}{15}
+\indexentry{Suite class|hyperpage}{16}
+\indexentry{M and M problem|hyperpage}{17}
+\indexentry{abstract type|hyperpage}{18}
+\indexentry{concrete type|hyperpage}{18}
+\indexentry{interface|hyperpage}{18}
+\indexentry{implementation|hyperpage}{18}
+\indexentry{template method pattern|hyperpage}{18}
+\indexentry{Dice problem|hyperpage}{21}
+\indexentry{Dungeons and Dragons|hyperpage}{21}
+\indexentry{dice|hyperpage}{21}
+\indexentry{locomotive problem|hyperpage}{22}
+\indexentry{Mosteller, Frederick|hyperpage}{22}
+\indexentry{German tank problem|hyperpage}{22}
+\indexentry{likelihood function|hyperpage}{23}
+\indexentry{dice problem|hyperpage}{24}
+\indexentry{mean squared error|hyperpage}{24}
+\indexentry{prior distribution|hyperpage}{25}
+\indexentry{power law|hyperpage}{26}
+\indexentry{Axtell, Robert|hyperpage}{26}
+\indexentry{credible interval|hyperpage}{27}
+\indexentry{maximum likelihood|hyperpage}{27}
+\indexentry{percentile|hyperpage}{28}
+\indexentry{cumulative distribution function|hyperpage}{28}
+\indexentry{Cdf|hyperpage}{28}
+\indexentry{informative prior|hyperpage}{30}
+\indexentry{uninformative prior|hyperpage}{30}
+\indexentry{modeling|hyperpage}{30}
+\indexentry{subjectivity|hyperpage}{30}
+\indexentry{objectivity|hyperpage}{30}
+\indexentry{locomotive problem|hyperpage}{30}
+\indexentry{German tank problem|hyperpage}{30}
+\indexentry{Euro problem|hyperpage}{33}
+\indexentry{MacKay, David|hyperpage}{33}
+\indexentry{uniform distribution|hyperpage}{34}
+\indexentry{posterior distribution|hyperpage}{35}
+\indexentry{maximum likelihood|hyperpage}{35}
+\indexentry{median|hyperpage}{35}
+\indexentry{evidence|hyperpage}{35}
+\indexentry{triangle distribution|hyperpage}{36}
+\indexentry{swamping the priors|hyperpage}{36}
+\indexentry{convergence|hyperpage}{36}
+\indexentry{optimization|hyperpage}{37}
+\indexentry{tuple|hyperpage}{38}
+\indexentry{beta distribution|hyperpage}{38}
+\indexentry{continuous distribution|hyperpage}{39}
+\indexentry{binomial likelihood function|hyperpage}{39}
+\indexentry{conjugate prior|hyperpage}{39}
+\indexentry{parameter|hyperpage}{39}
+\indexentry{Beta object|hyperpage}{39}
+\indexentry{probability density function|hyperpage}{40}
+\indexentry{PDF|hyperpage}{40}
+\indexentry{swamping the priors|hyperpage}{40}
+\indexentry{convergence|hyperpage}{40}
+\indexentry{modeling|hyperpage}{40}
+\indexentry{Euro problem|hyperpage}{40}
+\indexentry{Cromwell's rule|hyperpage}{41}
+\indexentry{Cromwell, Oliver|hyperpage}{41}
+\indexentry{Reddit|hyperpage}{41}
+\indexentry{odds|hyperpage}{43}
+\indexentry{horse racing|hyperpage}{44}
+\indexentry{Bayes's theorem!odds form|hyperpage}{44}
+\indexentry{normalizing constant|hyperpage}{44}
+\indexentry{cookie problem|hyperpage}{44}
+\indexentry{Oliver's blood problem|hyperpage}{45}
+\indexentry{MacKay, David|hyperpage}{45}
+\indexentry{evidence|hyperpage}{45}
+\indexentry{likelihood ratio|hyperpage}{46}
+\indexentry{Bayes factor|hyperpage}{46}
+\indexentry{evidence|hyperpage}{46}
+\indexentry{distribution!operations|hyperpage}{47}
+\indexentry{Dungeons and Dragons|hyperpage}{47}
+\indexentry{simulation|hyperpage}{47}
+\indexentry{enumeration|hyperpage}{47}
+\indexentry{independence|hyperpage}{48}
+\indexentry{maximum|hyperpage}{49}
+\indexentry{simulation|hyperpage}{49}
+\indexentry{enumeration|hyperpage}{49}
+\indexentry{exponentiation|hyperpage}{49}
+\indexentry{independence|hyperpage}{50}
+\indexentry{uniform distribution|hyperpage}{52}
+\indexentry{mixture|hyperpage}{52}
+\indexentry{simulation|hyperpage}{52}
+\indexentry{distribution|hyperpage}{54}
+\indexentry{Pmf|hyperpage}{54}
+\indexentry{Cdf|hyperpage}{54}
+\indexentry{Price is Right|hyperpage}{55}
+\indexentry{Showcase|hyperpage}{55}
+\indexentry{decision analysis|hyperpage}{56}
+\indexentry{Davidson-Pilon, Cameron|hyperpage}{56}
+\indexentry{Gee, Steve|hyperpage}{56}
+\indexentry{kernel density estimation|hyperpage}{57}
+\indexentry{KDE|hyperpage}{57}
+\indexentry{probability density function|hyperpage}{57}
+\indexentry{Pdf|hyperpage}{57}
+\indexentry{Pmf|hyperpage}{57}
+\indexentry{Gaussian distribution|hyperpage}{57}
+\indexentry{density|hyperpage}{57}
+\indexentry{probability density|hyperpage}{57}
+\indexentry{probability|hyperpage}{57}
+\indexentry{Pdf|hyperpage}{57}
+\indexentry{abstract type|hyperpage}{58}
+\indexentry{concrete type|hyperpage}{58}
+\indexentry{interface|hyperpage}{58}
+\indexentry{implementation|hyperpage}{58}
+\indexentry{Gaussian distribution|hyperpage}{58}
+\indexentry{scipy|hyperpage}{58}
+\indexentry{normal distribution|hyperpage}{58}
+\indexentry{Gaussian distribution|hyperpage}{58}
+\indexentry{Gaussian PDF|hyperpage}{58}
+\indexentry{KDE|hyperpage}{59}
+\indexentry{kernel density estimation|hyperpage}{59}
+\indexentry{scipy|hyperpage}{59}
+\indexentry{numpy|hyperpage}{59}
+\indexentry{density|hyperpage}{59}
+\indexentry{numpy|hyperpage}{59}
+\indexentry{error|hyperpage}{60}
+\indexentry{likelihood|hyperpage}{60}
+\indexentry{Cdf|hyperpage}{61}
+\indexentry{Gaussian distribution|hyperpage}{61}
+\indexentry{numpy|hyperpage}{61}
+\indexentry{likelihood|hyperpage}{62}
+\indexentry{density|hyperpage}{63}
+\indexentry{likelihood|hyperpage}{63}
+\indexentry{normalize|hyperpage}{64}
+\indexentry{decision analysis|hyperpage}{64}
+\indexentry{numpy|hyperpage}{65}
+\indexentry{distribution|hyperpage}{68}
+\indexentry{decision analysis|hyperpage}{68}
+\indexentry{maximum likelihood|hyperpage}{68}
+\indexentry{summary statistic|hyperpage}{68}
+\indexentry{hockey|hyperpage}{69}
+\indexentry{Boston Bruins|hyperpage}{69}
+\indexentry{Vancouver Canucks|hyperpage}{69}
+\indexentry{Poisson process|hyperpage}{69}
+\indexentry{National Hockey League|hyperpage}{70}
+\indexentry{NHL|hyperpage}{70}
+\indexentry{numpy|hyperpage}{70}
+\indexentry{Gaussian distribution|hyperpage}{70}
+\indexentry{PDF|hyperpage}{70}
+\indexentry{probability density function|hyperpage}{70}
+\indexentry{process|hyperpage}{71}
+\indexentry{Poisson process|hyperpage}{71}
+\indexentry{Bernoulli process|hyperpage}{71}
+\indexentry{Heuer, Andreas|hyperpage}{71}
+\indexentry{Poisson distribution|hyperpage}{71}
+\indexentry{exponential distribution|hyperpage}{71}
+\indexentry{Poisson distribution|hyperpage}{73}
+\indexentry{mixture|hyperpage}{73}
+\indexentry{Poisson distribution|hyperpage}{73}
+\indexentry{meta-Pmf|hyperpage}{74}
+\indexentry{mixture|hyperpage}{74}
+\indexentry{MakeMixture|hyperpage}{74}
+\indexentry{overtime|hyperpage}{75}
+\indexentry{sudden death|hyperpage}{75}
+\indexentry{Poisson process|hyperpage}{75}
+\indexentry{exponential distribution|hyperpage}{75}
+\indexentry{MakeMixture|hyperpage}{75}
+\indexentry{meta-Pmf|hyperpage}{75}
+\indexentry{mixture|hyperpage}{75}
+\indexentry{modeling|hyperpage}{76}
+\indexentry{iterative modeling|hyperpage}{76}
+\indexentry{Hoag, Dirk|hyperpage}{77}
+\indexentry{bus stop problem|hyperpage}{78}
+\indexentry{Poisson process|hyperpage}{78}
+\indexentry{bus stop problem|hyperpage}{78}
+\indexentry{insect sampling problem|hyperpage}{78}
+\indexentry{predictive distribution|hyperpage}{78}
+\indexentry{light bulb problem|hyperpage}{78}
+\indexentry{Weibull distribution|hyperpage}{79}
+\indexentry{Red Line problem|hyperpage}{81}
+\indexentry{Boston|hyperpage}{81}
+\indexentry{Olin College|hyperpage}{81}
+\indexentry{Poisson process|hyperpage}{82}
+\indexentry{observer bias|hyperpage}{83}
+\indexentry{uniform distribution|hyperpage}{84}
+\indexentry{mixture|hyperpage}{85}
+\indexentry{MakeMixture|hyperpage}{85}
+\indexentry{meta-Pmf|hyperpage}{85}
+\indexentry{Cdf|hyperpage}{86}
+\indexentry{cumulative distribution function|hyperpage}{86}
+\indexentry{predictive distribution|hyperpage}{87}
+\indexentry{likelihood|hyperpage}{88}
+\indexentry{Poisson distribution|hyperpage}{88}
+\indexentry{predictive distribution|hyperpage}{89}
+\indexentry{arrival rate|hyperpage}{89}
+\indexentry{numpy|hyperpage}{90}
+\indexentry{uncertainty|hyperpage}{91}
+\indexentry{predictive distribution|hyperpage}{92}
+\indexentry{mixture|hyperpage}{92}
+\indexentry{MakeMixture|hyperpage}{92}
+\indexentry{meta-Pmf|hyperpage}{92}
+\indexentry{mixture|hyperpage}{92}
+\indexentry{non-linear|hyperpage}{92}
+\indexentry{decision analysis|hyperpage}{93}
+\indexentry{observer bias|hyperpage}{93}
+\indexentry{MacKay, David|hyperpage}{95}
+\indexentry{Paintball problem|hyperpage}{97}
+\indexentry{Sivia, D.S.|hyperpage}{97}
+\indexentry{Joint pmf|hyperpage}{98}
+\indexentry{likelihood|hyperpage}{99}
+\indexentry{trigonometry|hyperpage}{99}
+\indexentry{strafing speed|hyperpage}{100}
+\indexentry{likelihood|hyperpage}{101}
+\indexentry{joint distribution|hyperpage}{102}
+\indexentry{marginal distribution|hyperpage}{102}
+\indexentry{Joint|hyperpage}{102}
+\indexentry{credible interval|hyperpage}{102}
+\indexentry{evidence|hyperpage}{102}
+\indexentry{independence|hyperpage}{103}
+\indexentry{dependence|hyperpage}{103}
+\indexentry{conditional distribution|hyperpage}{103}
+\indexentry{Joint|hyperpage}{103}
+\indexentry{dependence|hyperpage}{104}
+\indexentry{independence|hyperpage}{104}
+\indexentry{central credible interval|hyperpage}{104}
+\indexentry{maximum likelihood|hyperpage}{105}
+\indexentry{Joint|hyperpage}{105}
+\indexentry{Joint|hyperpage}{106}
+\indexentry{joint distribution|hyperpage}{106}
+\indexentry{conditional distribution|hyperpage}{106}
+\indexentry{marginal distribution|hyperpage}{106}
+\indexentry{crank science|hyperpage}{109}
+\indexentry{Horsford, Eben Norton|hyperpage}{109}
+\indexentry{Variability Hypothesis|hyperpage}{109}
+\indexentry{Meckel, Johann|hyperpage}{109}
+\indexentry{evidence|hyperpage}{109}
+\indexentry{Centers for Disease Control|hyperpage}{110}
+\indexentry{CDC|hyperpage}{110}
+\indexentry{BRFSS|hyperpage}{110}
+\indexentry{Behavioral Risk Factor Surveillance System|hyperpage}{110}
+\indexentry{coefficient of variation|hyperpage}{110}
+\indexentry{height|hyperpage}{110}
+\indexentry{Gaussian distribution|hyperpage}{110}
+\indexentry{Joint|hyperpage}{111}
+\indexentry{joint distribution|hyperpage}{111}
+\indexentry{likelihood|hyperpage}{111}
+\indexentry{density|hyperpage}{111}
+\indexentry{classical estimation|hyperpage}{111}
+\indexentry{numpy|hyperpage}{112}
+\indexentry{linspace|hyperpage}{112}
+\indexentry{bogus|hyperpage}{113}
+\indexentry{maximum likelihood|hyperpage}{113}
+\indexentry{underflow|hyperpage}{114}
+\indexentry{logarithm|hyperpage}{114}
+\indexentry{log transform|hyperpage}{114}
+\indexentry{exception|hyperpage}{114}
+\indexentry{maximum likelihood|hyperpage}{115}
+\indexentry{scipy|hyperpage}{116}
+\indexentry{log-likelihood|hyperpage}{116}
+\indexentry{optimization|hyperpage}{116}
+\indexentry{optimization|hyperpage}{117}
+\indexentry{memoization|hyperpage}{117}
+\indexentry{cache|hyperpage}{117}
+\indexentry{ABC|hyperpage}{118}
+\indexentry{Approximate Bayesian Computation|hyperpage}{118}
+\indexentry{locomotive problem|hyperpage}{118}
+\indexentry{Euro problem|hyperpage}{118}
+\indexentry{BRFSS|hyperpage}{118}
+\indexentry{Gaussian distribution|hyperpage}{118}
+\indexentry{sample statistics|hyperpage}{119}
+\indexentry{summary statistic|hyperpage}{121}
+\indexentry{robust estimation|hyperpage}{121}
+\indexentry{inter-quartile range|hyperpage}{121}
+\indexentry{IQR|hyperpage}{121}
+\indexentry{Gaussian distribution|hyperpage}{121}
+\indexentry{modeling|hyperpage}{123}
+\indexentry{likelihood|hyperpage}{124}
+\indexentry{summary statistic|hyperpage}{124}
+\indexentry{MacKay, David|hyperpage}{125}
+\indexentry{Euro problem|hyperpage}{125}
+\indexentry{evidence|hyperpage}{125}
+\indexentry{hypothesis testing|hyperpage}{125}
+\indexentry{Bayes factor|hyperpage}{125}
+\indexentry{fair coin|hyperpage}{125}
+\indexentry{biased coin|hyperpage}{125}
+\indexentry{evidence|hyperpage}{126}
+\indexentry{bogus|hyperpage}{126}
+\indexentry{evidence|hyperpage}{127}
+\indexentry{likelihood ratio|hyperpage}{127}
+\indexentry{Bayes factor|hyperpage}{127}
+\indexentry{likelihood|hyperpage}{127}
+\indexentry{triangle distribution|hyperpage}{128}
+\indexentry{evidence|hyperpage}{128}
+\indexentry{likelihood ratio|hyperpage}{128}
+\indexentry{Bayes factor|hyperpage}{128}
+\indexentry{evidence|hyperpage}{129}
+\indexentry{ESP|hyperpage}{129}
+\indexentry{extra-sensory perception|hyperpage}{129}
+\indexentry{Hume, David|hyperpage}{130}
+\indexentry{SAT|hyperpage}{131}
+\indexentry{standardized test|hyperpage}{131}
+\indexentry{evidence|hyperpage}{131}
+\indexentry{modeling|hyperpage}{131}
+\indexentry{scaled score|hyperpage}{132}
+\indexentry{College Board|hyperpage}{132}
+\indexentry{Gaussian distribution|hyperpage}{133}
+\indexentry{binomial distribution|hyperpage}{134}
+\indexentry{raw score|hyperpage}{134}
+\indexentry{likelihood ratio|hyperpage}{136}
+\indexentry{Bayes factor|hyperpage}{136}
+\indexentry{modeling error|hyperpage}{136}
+\indexentry{efficacy|hyperpage}{136}
+\indexentry{item response theory|hyperpage}{137}
+\indexentry{Gaussian distribution|hyperpage}{138}
+\indexentry{meta-Pmf|hyperpage}{138}
+\indexentry{MakeMixture|hyperpage}{138}
+\indexentry{numpy|hyperpage}{138}
+\indexentry{calibration|hyperpage}{138}
+\indexentry{Gaussian distribution|hyperpage}{139}
+\indexentry{predictive distribution|hyperpage}{141}
+\indexentry{nuisance parameter|hyperpage}{142}
+\indexentry{joint distribution|hyperpage}{143}
+\indexentry{independence|hyperpage}{143}
+\indexentry{Kidney tumor problem|hyperpage}{145}
+\indexentry{Reddit|hyperpage}{145}
+\indexentry{doubling time|hyperpage}{146}
+\indexentry{exponential distribution|hyperpage}{146}
+\indexentry{mixture|hyperpage}{146}
+\indexentry{modeling|hyperpage}{147}
+\indexentry{Veterans' Benefit Administration|hyperpage}{148}
+\indexentry{modeling|hyperpage}{148}
+\indexentry{simulation|hyperpage}{148}
+\indexentry{conditional distribution|hyperpage}{148}
+\indexentry{carcinoma|hyperpage}{149}
+\indexentry{independence|hyperpage}{149}
+\indexentry{volume|hyperpage}{150}
+\indexentry{sphere|hyperpage}{150}
+\indexentry{simulation|hyperpage}{150}
+\indexentry{iterator|hyperpage}{150}
+\indexentry{cache|hyperpage}{151}
+\indexentry{joint distribution|hyperpage}{151}
+\indexentry{log scale|hyperpage}{152}
+\indexentry{bucket|hyperpage}{152}
+\indexentry{pseudocolor plot|hyperpage}{152}
+\indexentry{conditional distribution|hyperpage}{152}
+\indexentry{joint distribution|hyperpage}{153}
+\indexentry{percentile|hyperpage}{153}
+\indexentry{least squares fit|hyperpage}{153}
+\indexentry{modeling error|hyperpage}{154}
+\indexentry{sphere|hyperpage}{154}
+\indexentry{growth rate|hyperpage}{154}
+\indexentry{tumor type|hyperpage}{154}
+\indexentry{serial correlation|hyperpage}{154}
+\indexentry{generator|hyperpage}{154}
+\indexentry{Gaussian distribution|hyperpage}{154}
+\indexentry{cumulative probability|hyperpage}{155}
+\indexentry{correlated random value|hyperpage}{155}
+\indexentry{generator|hyperpage}{155}
+\indexentry{serial correlation|hyperpage}{156}
+\indexentry{percentile|hyperpage}{156}
+\indexentry{modeling error|hyperpage}{157}
+\indexentry{joint distribution|hyperpage}{157}
+\indexentry{conditional distribution|hyperpage}{157}
+\indexentry{Jaynes, E.~T.|hyperpage}{159}
+\indexentry{Campbell-Ricketts, Tom|hyperpage}{159}
+\indexentry{Geiger counter problem|hyperpage}{159}
+\indexentry{causation|hyperpage}{159}
+\indexentry{radioactive decay|hyperpage}{159}
+\indexentry{Poisson process|hyperpage}{159}
+\indexentry{binomial distribution|hyperpage}{160}
+\indexentry{forward problem|hyperpage}{160}
+\indexentry{inverse problem|hyperpage}{160}
+\indexentry{Poisson distribution|hyperpage}{161}
+\indexentry{likelihood|hyperpage}{161}
+\indexentry{binomial distribution|hyperpage}{161}
+\indexentry{meta-Suite|hyperpage}{162}
+\indexentry{hierarchical model|hyperpage}{162}
+\indexentry{normalizing constant|hyperpage}{163}
+\indexentry{optimization|hyperpage}{163}
+\indexentry{Geiger counter problem|hyperpage}{164}
+\indexentry{causation|hyperpage}{164}
+\indexentry{hierarchical model|hyperpage}{164}
+\indexentry{biodiversity|hyperpage}{167}
+\indexentry{belly button|hyperpage}{167}
+\indexentry{bacteria|hyperpage}{167}
+\indexentry{microbiome|hyperpage}{167}
+\indexentry{navel|hyperpage}{167}
+\indexentry{rDNA|hyperpage}{167}
+\indexentry{pyrosequencing|hyperpage}{167}
+\indexentry{species|hyperpage}{167}
+\indexentry{prevalence|hyperpage}{167}
+\indexentry{Unseen Species problem|hyperpage}{167}
+\indexentry{lions and tigers and bears|hyperpage}{168}
+\indexentry{multinomial distribution|hyperpage}{168}
+\indexentry{beta distribution|hyperpage}{168}
+\indexentry{maximum likelihood|hyperpage}{168}
+\indexentry{independence|hyperpage}{168}
+\indexentry{joint distribution|hyperpage}{168}
+\indexentry{beta distribution|hyperpage}{168}
+\indexentry{Dirichlet distribution|hyperpage}{168}
+\indexentry{numpy|hyperpage}{169}
+\indexentry{marginal distribution|hyperpage}{169}
+\indexentry{prevalence|hyperpage}{170}
+\indexentry{hierarchical model|hyperpage}{170}
+\indexentry{meta-Suite|hyperpage}{170}
+\indexentry{multinomial distribution|hyperpage}{172}
+\indexentry{multinomial coefficient|hyperpage}{172}
+\indexentry{random sample|hyperpage}{172}
+\indexentry{numpy|hyperpage}{173}
+\indexentry{gamma distribution|hyperpage}{173}
+\indexentry{uniform   distribution|hyperpage}{173}
+\indexentry{optimization|hyperpage}{174}
+\indexentry{numpy|hyperpage}{174}
+\indexentry{numpy|hyperpage}{175}
+\indexentry{numpy|hyperpage}{175}
+\indexentry{log-likelihood|hyperpage}{176}
+\indexentry{underflow|hyperpage}{176}
+\indexentry{multinomial distribution|hyperpage}{176}
+\indexentry{numpy|hyperpage}{176}
+\indexentry{gamma distribution|hyperpage}{176}
+\indexentry{cumulative sum|hyperpage}{177}
+\indexentry{log-likelihood|hyperpage}{177}
+\indexentry{binomial coefficient|hyperpage}{177}
+\indexentry{regression testing|hyperpage}{177}
+\indexentry{numpy|hyperpage}{178}
+\indexentry{regression testing|hyperpage}{179}
+\indexentry{numpy|hyperpage}{179}
+\indexentry{numpy|hyperpage}{180}
+\indexentry{species|hyperpage}{181}
+\indexentry{sample bias|hyperpage}{181}
+\indexentry{operational taxonomic unit|hyperpage}{181}
+\indexentry{OTU|hyperpage}{181}
+\indexentry{prevalence|hyperpage}{181}
+\indexentry{Beta object|hyperpage}{183}
+\indexentry{meta-Pmf|hyperpage}{183}
+\indexentry{mixture|hyperpage}{183}
+\indexentry{MakeMixture|hyperpage}{183}
+\indexentry{predictive distribution|hyperpage}{183}
+\indexentry{simulation|hyperpage}{184}
+\indexentry{Dirichlet distribution|hyperpage}{184}
+\indexentry{joint distribution|hyperpage}{184}
+\indexentry{rarefaction curve|hyperpage}{185}
+\indexentry{generator|hyperpage}{185}
+\indexentry{Cdf|hyperpage}{186}
+\indexentry{cumulative probability|hyperpage}{186}
+\indexentry{numpy|hyperpage}{186}
+\indexentry{random sample|hyperpage}{186}
+\indexentry{joint distribution|hyperpage}{187}
+\indexentry{Joint object|hyperpage}{187}
+\indexentry{rarefaction curve|hyperpage}{187}
+\indexentry{conditional distribution|hyperpage}{188}
+\indexentry{coverage|hyperpage}{189}
+\indexentry{complementary CDF|hyperpage}{189}
+\indexentry{coverage|hyperpage}{190}

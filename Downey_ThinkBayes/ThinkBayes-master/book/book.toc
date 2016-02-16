@@ -1,0 +1,149 @@
+\contentsline {chapter}{Preface}{v}{chapter*.1}
+\contentsline {section}{\numberline {0.1}My theory, which is mine}{v}{section.0.1}
+\contentsline {section}{\numberline {0.2}Modeling and approximation}{v}{section.0.2}
+\contentsline {section}{\numberline {0.3}Working with the code}{vii}{section.0.3}
+\contentsline {section}{\numberline {0.4}Code style}{viii}{section.0.4}
+\contentsline {section}{\numberline {0.5}Prerequisites}{viii}{section.0.5}
+\contentsline {chapter}{\numberline {1}Bayes's Theorem}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Conditional probability}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Conjoint probability}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}The cookie problem}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Bayes's theorem}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}The diachronic interpretation}{5}{section.1.5}
+\contentsline {section}{\numberline {1.6}The M\&M\nobreakspace {}problem}{6}{section.1.6}
+\contentsline {section}{\numberline {1.7}The Monty Hall problem}{8}{section.1.7}
+\contentsline {section}{\numberline {1.8}Discussion}{10}{section.1.8}
+\contentsline {chapter}{\numberline {2}Computational Statistics}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Distributions}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}The cookie problem}{12}{section.2.2}
+\contentsline {section}{\numberline {2.3}The Bayesian framework}{13}{section.2.3}
+\contentsline {section}{\numberline {2.4}The Monty Hall problem}{15}{section.2.4}
+\contentsline {section}{\numberline {2.5}Encapsulating the framework}{16}{section.2.5}
+\contentsline {section}{\numberline {2.6}The M\&M\nobreakspace {}problem}{17}{section.2.6}
+\contentsline {section}{\numberline {2.7}Discussion}{18}{section.2.7}
+\contentsline {section}{\numberline {2.8}Exercises}{19}{section.2.8}
+\contentsline {chapter}{\numberline {3}Estimation}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}The dice problem}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}The locomotive problem}{22}{section.3.2}
+\contentsline {section}{\numberline {3.3}What about that prior?}{25}{section.3.3}
+\contentsline {section}{\numberline {3.4}An alternative prior}{25}{section.3.4}
+\contentsline {section}{\numberline {3.5}Credible intervals}{27}{section.3.5}
+\contentsline {section}{\numberline {3.6}Cumulative distribution functions}{28}{section.3.6}
+\contentsline {section}{\numberline {3.7}The German tank problem}{29}{section.3.7}
+\contentsline {section}{\numberline {3.8}Discussion}{30}{section.3.8}
+\contentsline {section}{\numberline {3.9}Exercises}{30}{section.3.9}
+\contentsline {chapter}{\numberline {4}More Estimation}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}The Euro problem}{33}{section.4.1}
+\contentsline {section}{\numberline {4.2}Summarizing the posterior}{35}{section.4.2}
+\contentsline {section}{\numberline {4.3}Swamping the priors}{36}{section.4.3}
+\contentsline {section}{\numberline {4.4}Optimization}{37}{section.4.4}
+\contentsline {section}{\numberline {4.5}The beta distribution}{38}{section.4.5}
+\contentsline {section}{\numberline {4.6}Discussion}{40}{section.4.6}
+\contentsline {section}{\numberline {4.7}Exercises}{41}{section.4.7}
+\contentsline {chapter}{\numberline {5}Odds and Addends}{43}{chapter.5}
+\contentsline {section}{\numberline {5.1}Odds}{43}{section.5.1}
+\contentsline {section}{\numberline {5.2}The odds form of Bayes's theorem}{44}{section.5.2}
+\contentsline {section}{\numberline {5.3}Oliver's blood}{45}{section.5.3}
+\contentsline {section}{\numberline {5.4}Addends}{46}{section.5.4}
+\contentsline {section}{\numberline {5.5}Maxima}{49}{section.5.5}
+\contentsline {section}{\numberline {5.6}Mixtures}{51}{section.5.6}
+\contentsline {section}{\numberline {5.7}Discussion}{54}{section.5.7}
+\contentsline {chapter}{\numberline {6}Decision Analysis}{55}{chapter.6}
+\contentsline {section}{\numberline {6.1}The {\it Price is Right} problem}{55}{section.6.1}
+\contentsline {section}{\numberline {6.2}The prior}{56}{section.6.2}
+\contentsline {section}{\numberline {6.3}Probability density functions}{57}{section.6.3}
+\contentsline {section}{\numberline {6.4}Representing PDFs}{57}{section.6.4}
+\contentsline {section}{\numberline {6.5}Modeling the contestants}{60}{section.6.5}
+\contentsline {section}{\numberline {6.6}Likelihood}{62}{section.6.6}
+\contentsline {section}{\numberline {6.7}Update}{63}{section.6.7}
+\contentsline {section}{\numberline {6.8}Optimal bidding}{64}{section.6.8}
+\contentsline {section}{\numberline {6.9}Discussion}{67}{section.6.9}
+\contentsline {chapter}{\numberline {7}Prediction}{69}{chapter.7}
+\contentsline {section}{\numberline {7.1}The Boston Bruins problem}{69}{section.7.1}
+\contentsline {section}{\numberline {7.2}Poisson processes}{71}{section.7.2}
+\contentsline {section}{\numberline {7.3}The posteriors}{71}{section.7.3}
+\contentsline {section}{\numberline {7.4}The distribution of goals}{72}{section.7.4}
+\contentsline {section}{\numberline {7.5}The probability of winning}{74}{section.7.5}
+\contentsline {section}{\numberline {7.6}Sudden death}{75}{section.7.6}
+\contentsline {section}{\numberline {7.7}Discussion}{76}{section.7.7}
+\contentsline {section}{\numberline {7.8}Exercises}{78}{section.7.8}
+\contentsline {chapter}{\numberline {8}Observer Bias}{81}{chapter.8}
+\contentsline {section}{\numberline {8.1}The Red Line problem}{81}{section.8.1}
+\contentsline {section}{\numberline {8.2}The model}{82}{section.8.2}
+\contentsline {section}{\numberline {8.3}Wait times}{84}{section.8.3}
+\contentsline {section}{\numberline {8.4}Predicting wait times}{86}{section.8.4}
+\contentsline {section}{\numberline {8.5}Estimating the arrival rate}{89}{section.8.5}
+\contentsline {section}{\numberline {8.6}Incorporating uncertainty}{91}{section.8.6}
+\contentsline {section}{\numberline {8.7}Decision analysis}{92}{section.8.7}
+\contentsline {section}{\numberline {8.8}Discussion}{95}{section.8.8}
+\contentsline {section}{\numberline {8.9}Exercises}{95}{section.8.9}
+\contentsline {chapter}{\numberline {9}Two Dimensions}{97}{chapter.9}
+\contentsline {section}{\numberline {9.1}Paintball}{97}{section.9.1}
+\contentsline {section}{\numberline {9.2}The suite}{98}{section.9.2}
+\contentsline {section}{\numberline {9.3}Trigonometry}{99}{section.9.3}
+\contentsline {section}{\numberline {9.4}Likelihood}{101}{section.9.4}
+\contentsline {section}{\numberline {9.5}Joint distributions}{102}{section.9.5}
+\contentsline {section}{\numberline {9.6}Conditional distributions}{103}{section.9.6}
+\contentsline {section}{\numberline {9.7}Credible intervals}{104}{section.9.7}
+\contentsline {section}{\numberline {9.8}Discussion}{106}{section.9.8}
+\contentsline {section}{\numberline {9.9}Exercises}{107}{section.9.9}
+\contentsline {chapter}{\numberline {10}Approximate Bayesian Computation}{109}{chapter.10}
+\contentsline {section}{\numberline {10.1}The Variability Hypothesis}{109}{section.10.1}
+\contentsline {section}{\numberline {10.2}Mean and standard deviation}{110}{section.10.2}
+\contentsline {section}{\numberline {10.3}Update}{112}{section.10.3}
+\contentsline {section}{\numberline {10.4}The posterior distribution of CV}{113}{section.10.4}
+\contentsline {section}{\numberline {10.5}Underflow}{114}{section.10.5}
+\contentsline {section}{\numberline {10.6}Log-likelihood}{115}{section.10.6}
+\contentsline {section}{\numberline {10.7}A little optimization}{116}{section.10.7}
+\contentsline {section}{\numberline {10.8}ABC}{118}{section.10.8}
+\contentsline {section}{\numberline {10.9}Robust estimation}{119}{section.10.9}
+\contentsline {section}{\numberline {10.10}Who is more variable?}{122}{section.10.10}
+\contentsline {section}{\numberline {10.11}Discussion}{123}{section.10.11}
+\contentsline {section}{\numberline {10.12}Exercises}{124}{section.10.12}
+\contentsline {chapter}{\numberline {11}Hypothesis Testing}{125}{chapter.11}
+\contentsline {section}{\numberline {11.1}Back to the Euro problem}{125}{section.11.1}
+\contentsline {section}{\numberline {11.2}Making a fair comparison}{126}{section.11.2}
+\contentsline {section}{\numberline {11.3}The triangle prior}{128}{section.11.3}
+\contentsline {section}{\numberline {11.4}Discussion}{129}{section.11.4}
+\contentsline {section}{\numberline {11.5}Exercises}{129}{section.11.5}
+\contentsline {chapter}{\numberline {12}Evidence}{131}{chapter.12}
+\contentsline {section}{\numberline {12.1}Interpreting SAT scores}{131}{section.12.1}
+\contentsline {section}{\numberline {12.2}The scale}{132}{section.12.2}
+\contentsline {section}{\numberline {12.3}The prior}{132}{section.12.3}
+\contentsline {section}{\numberline {12.4}Posterior}{134}{section.12.4}
+\contentsline {section}{\numberline {12.5}A better model}{136}{section.12.5}
+\contentsline {section}{\numberline {12.6}Calibration}{138}{section.12.6}
+\contentsline {section}{\numberline {12.7}Posterior distribution of efficacy}{139}{section.12.7}
+\contentsline {section}{\numberline {12.8}Predictive distribution}{141}{section.12.8}
+\contentsline {section}{\numberline {12.9}Discussion}{142}{section.12.9}
+\contentsline {chapter}{\numberline {13}Simulation}{145}{chapter.13}
+\contentsline {section}{\numberline {13.1}The Kidney Tumor problem}{145}{section.13.1}
+\contentsline {section}{\numberline {13.2}A simple model}{146}{section.13.2}
+\contentsline {section}{\numberline {13.3}A more general model}{148}{section.13.3}
+\contentsline {section}{\numberline {13.4}Implementation}{150}{section.13.4}
+\contentsline {section}{\numberline {13.5}Caching the joint distribution}{151}{section.13.5}
+\contentsline {section}{\numberline {13.6}Conditional distributions}{152}{section.13.6}
+\contentsline {section}{\numberline {13.7}Serial Correlation}{154}{section.13.7}
+\contentsline {section}{\numberline {13.8}Discussion}{157}{section.13.8}
+\contentsline {chapter}{\numberline {14}A Hierarchical Model}{159}{chapter.14}
+\contentsline {section}{\numberline {14.1}The Geiger counter problem}{159}{section.14.1}
+\contentsline {section}{\numberline {14.2}Start simple}{160}{section.14.2}
+\contentsline {section}{\numberline {14.3}Make it hierarchical}{161}{section.14.3}
+\contentsline {section}{\numberline {14.4}A little optimization}{163}{section.14.4}
+\contentsline {section}{\numberline {14.5}Extracting the posteriors}{163}{section.14.5}
+\contentsline {section}{\numberline {14.6}Discussion}{164}{section.14.6}
+\contentsline {section}{\numberline {14.7}Exercises}{165}{section.14.7}
+\contentsline {chapter}{\numberline {15}Dealing with Dimensions}{167}{chapter.15}
+\contentsline {section}{\numberline {15.1}Belly button bacteria}{167}{section.15.1}
+\contentsline {section}{\numberline {15.2}Lions and tigers and bears}{168}{section.15.2}
+\contentsline {section}{\numberline {15.3}The hierarchical version}{170}{section.15.3}
+\contentsline {section}{\numberline {15.4}Random sampling}{172}{section.15.4}
+\contentsline {section}{\numberline {15.5}Optimization}{174}{section.15.5}
+\contentsline {section}{\numberline {15.6}Collapsing the hierarchy}{175}{section.15.6}
+\contentsline {section}{\numberline {15.7}One more problem}{177}{section.15.7}
+\contentsline {section}{\numberline {15.8}We're not done yet}{179}{section.15.8}
+\contentsline {section}{\numberline {15.9}The belly button data}{180}{section.15.9}
+\contentsline {section}{\numberline {15.10}Predictive distributions}{183}{section.15.10}
+\contentsline {section}{\numberline {15.11}Joint posterior}{187}{section.15.11}
+\contentsline {section}{\numberline {15.12}Coverage}{189}{section.15.12}
+\contentsline {section}{\numberline {15.13}Discussion}{190}{section.15.13}

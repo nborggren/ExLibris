@@ -1,0 +1,149 @@
+\BOOKMARK [0][-]{chapter*.1}{Preface}{}% 1
+\BOOKMARK [1][-]{section.0.1}{My theory, which is mine}{chapter*.1}% 2
+\BOOKMARK [1][-]{section.0.2}{Modeling and approximation}{chapter*.1}% 3
+\BOOKMARK [1][-]{section.0.3}{Working with the code}{chapter*.1}% 4
+\BOOKMARK [1][-]{section.0.4}{Code style}{chapter*.1}% 5
+\BOOKMARK [1][-]{section.0.5}{Prerequisites}{chapter*.1}% 6
+\BOOKMARK [0][-]{chapter.1}{Bayes's Theorem}{}% 7
+\BOOKMARK [1][-]{section.1.1}{Conditional probability}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.2}{Conjoint probability}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.3}{The cookie problem}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.4}{Bayes's theorem}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.5}{The diachronic interpretation}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.6}{The M\046M problem}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.7}{The Monty Hall problem}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.8}{Discussion}{chapter.1}% 15
+\BOOKMARK [0][-]{chapter.2}{Computational Statistics}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Distributions}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.2}{The cookie problem}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.3}{The Bayesian framework}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.4}{The Monty Hall problem}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.5}{Encapsulating the framework}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.6}{The M\046M problem}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.7}{Discussion}{chapter.2}% 23
+\BOOKMARK [1][-]{section.2.8}{Exercises}{chapter.2}% 24
+\BOOKMARK [0][-]{chapter.3}{Estimation}{}% 25
+\BOOKMARK [1][-]{section.3.1}{The dice problem}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.2}{The locomotive problem}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.3}{What about that prior?}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.4}{An alternative prior}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.5}{Credible intervals}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.6}{Cumulative distribution functions}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.7}{The German tank problem}{chapter.3}% 32
+\BOOKMARK [1][-]{section.3.8}{Discussion}{chapter.3}% 33
+\BOOKMARK [1][-]{section.3.9}{Exercises}{chapter.3}% 34
+\BOOKMARK [0][-]{chapter.4}{More Estimation}{}% 35
+\BOOKMARK [1][-]{section.4.1}{The Euro problem}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.2}{Summarizing the posterior}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.3}{Swamping the priors}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.4}{Optimization}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.5}{The beta distribution}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.6}{Discussion}{chapter.4}% 41
+\BOOKMARK [1][-]{section.4.7}{Exercises}{chapter.4}% 42
+\BOOKMARK [0][-]{chapter.5}{Odds and Addends}{}% 43
+\BOOKMARK [1][-]{section.5.1}{Odds}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.2}{The odds form of Bayes's theorem}{chapter.5}% 45
+\BOOKMARK [1][-]{section.5.3}{Oliver's blood}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.4}{Addends}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.5}{Maxima}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.6}{Mixtures}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.7}{Discussion}{chapter.5}% 50
+\BOOKMARK [0][-]{chapter.6}{Decision Analysis}{}% 51
+\BOOKMARK [1][-]{section.6.1}{The Price is Right problem}{chapter.6}% 52
+\BOOKMARK [1][-]{section.6.2}{The prior}{chapter.6}% 53
+\BOOKMARK [1][-]{section.6.3}{Probability density functions}{chapter.6}% 54
+\BOOKMARK [1][-]{section.6.4}{Representing PDFs}{chapter.6}% 55
+\BOOKMARK [1][-]{section.6.5}{Modeling the contestants}{chapter.6}% 56
+\BOOKMARK [1][-]{section.6.6}{Likelihood}{chapter.6}% 57
+\BOOKMARK [1][-]{section.6.7}{Update}{chapter.6}% 58
+\BOOKMARK [1][-]{section.6.8}{Optimal bidding}{chapter.6}% 59
+\BOOKMARK [1][-]{section.6.9}{Discussion}{chapter.6}% 60
+\BOOKMARK [0][-]{chapter.7}{Prediction}{}% 61
+\BOOKMARK [1][-]{section.7.1}{The Boston Bruins problem}{chapter.7}% 62
+\BOOKMARK [1][-]{section.7.2}{Poisson processes}{chapter.7}% 63
+\BOOKMARK [1][-]{section.7.3}{The posteriors}{chapter.7}% 64
+\BOOKMARK [1][-]{section.7.4}{The distribution of goals}{chapter.7}% 65
+\BOOKMARK [1][-]{section.7.5}{The probability of winning}{chapter.7}% 66
+\BOOKMARK [1][-]{section.7.6}{Sudden death}{chapter.7}% 67
+\BOOKMARK [1][-]{section.7.7}{Discussion}{chapter.7}% 68
+\BOOKMARK [1][-]{section.7.8}{Exercises}{chapter.7}% 69
+\BOOKMARK [0][-]{chapter.8}{Observer Bias}{}% 70
+\BOOKMARK [1][-]{section.8.1}{The Red Line problem}{chapter.8}% 71
+\BOOKMARK [1][-]{section.8.2}{The model}{chapter.8}% 72
+\BOOKMARK [1][-]{section.8.3}{Wait times}{chapter.8}% 73
+\BOOKMARK [1][-]{section.8.4}{Predicting wait times}{chapter.8}% 74
+\BOOKMARK [1][-]{section.8.5}{Estimating the arrival rate}{chapter.8}% 75
+\BOOKMARK [1][-]{section.8.6}{Incorporating uncertainty}{chapter.8}% 76
+\BOOKMARK [1][-]{section.8.7}{Decision analysis}{chapter.8}% 77
+\BOOKMARK [1][-]{section.8.8}{Discussion}{chapter.8}% 78
+\BOOKMARK [1][-]{section.8.9}{Exercises}{chapter.8}% 79
+\BOOKMARK [0][-]{chapter.9}{Two Dimensions}{}% 80
+\BOOKMARK [1][-]{section.9.1}{Paintball}{chapter.9}% 81
+\BOOKMARK [1][-]{section.9.2}{The suite}{chapter.9}% 82
+\BOOKMARK [1][-]{section.9.3}{Trigonometry}{chapter.9}% 83
+\BOOKMARK [1][-]{section.9.4}{Likelihood}{chapter.9}% 84
+\BOOKMARK [1][-]{section.9.5}{Joint distributions}{chapter.9}% 85
+\BOOKMARK [1][-]{section.9.6}{Conditional distributions}{chapter.9}% 86
+\BOOKMARK [1][-]{section.9.7}{Credible intervals}{chapter.9}% 87
+\BOOKMARK [1][-]{section.9.8}{Discussion}{chapter.9}% 88
+\BOOKMARK [1][-]{section.9.9}{Exercises}{chapter.9}% 89
+\BOOKMARK [0][-]{chapter.10}{Approximate Bayesian Computation}{}% 90
+\BOOKMARK [1][-]{section.10.1}{The Variability Hypothesis}{chapter.10}% 91
+\BOOKMARK [1][-]{section.10.2}{Mean and standard deviation}{chapter.10}% 92
+\BOOKMARK [1][-]{section.10.3}{Update}{chapter.10}% 93
+\BOOKMARK [1][-]{section.10.4}{The posterior distribution of CV}{chapter.10}% 94
+\BOOKMARK [1][-]{section.10.5}{Underflow}{chapter.10}% 95
+\BOOKMARK [1][-]{section.10.6}{Log-likelihood}{chapter.10}% 96
+\BOOKMARK [1][-]{section.10.7}{A little optimization}{chapter.10}% 97
+\BOOKMARK [1][-]{section.10.8}{ABC}{chapter.10}% 98
+\BOOKMARK [1][-]{section.10.9}{Robust estimation}{chapter.10}% 99
+\BOOKMARK [1][-]{section.10.10}{Who is more variable?}{chapter.10}% 100
+\BOOKMARK [1][-]{section.10.11}{Discussion}{chapter.10}% 101
+\BOOKMARK [1][-]{section.10.12}{Exercises}{chapter.10}% 102
+\BOOKMARK [0][-]{chapter.11}{Hypothesis Testing}{}% 103
+\BOOKMARK [1][-]{section.11.1}{Back to the Euro problem}{chapter.11}% 104
+\BOOKMARK [1][-]{section.11.2}{Making a fair comparison}{chapter.11}% 105
+\BOOKMARK [1][-]{section.11.3}{The triangle prior}{chapter.11}% 106
+\BOOKMARK [1][-]{section.11.4}{Discussion}{chapter.11}% 107
+\BOOKMARK [1][-]{section.11.5}{Exercises}{chapter.11}% 108
+\BOOKMARK [0][-]{chapter.12}{Evidence}{}% 109
+\BOOKMARK [1][-]{section.12.1}{Interpreting SAT scores}{chapter.12}% 110
+\BOOKMARK [1][-]{section.12.2}{The scale}{chapter.12}% 111
+\BOOKMARK [1][-]{section.12.3}{The prior}{chapter.12}% 112
+\BOOKMARK [1][-]{section.12.4}{Posterior}{chapter.12}% 113
+\BOOKMARK [1][-]{section.12.5}{A better model}{chapter.12}% 114
+\BOOKMARK [1][-]{section.12.6}{Calibration}{chapter.12}% 115
+\BOOKMARK [1][-]{section.12.7}{Posterior distribution of efficacy}{chapter.12}% 116
+\BOOKMARK [1][-]{section.12.8}{Predictive distribution}{chapter.12}% 117
+\BOOKMARK [1][-]{section.12.9}{Discussion}{chapter.12}% 118
+\BOOKMARK [0][-]{chapter.13}{Simulation}{}% 119
+\BOOKMARK [1][-]{section.13.1}{The Kidney Tumor problem}{chapter.13}% 120
+\BOOKMARK [1][-]{section.13.2}{A simple model}{chapter.13}% 121
+\BOOKMARK [1][-]{section.13.3}{A more general model}{chapter.13}% 122
+\BOOKMARK [1][-]{section.13.4}{Implementation}{chapter.13}% 123
+\BOOKMARK [1][-]{section.13.5}{Caching the joint distribution}{chapter.13}% 124
+\BOOKMARK [1][-]{section.13.6}{Conditional distributions}{chapter.13}% 125
+\BOOKMARK [1][-]{section.13.7}{Serial Correlation}{chapter.13}% 126
+\BOOKMARK [1][-]{section.13.8}{Discussion}{chapter.13}% 127
+\BOOKMARK [0][-]{chapter.14}{A Hierarchical Model}{}% 128
+\BOOKMARK [1][-]{section.14.1}{The Geiger counter problem}{chapter.14}% 129
+\BOOKMARK [1][-]{section.14.2}{Start simple}{chapter.14}% 130
+\BOOKMARK [1][-]{section.14.3}{Make it hierarchical}{chapter.14}% 131
+\BOOKMARK [1][-]{section.14.4}{A little optimization}{chapter.14}% 132
+\BOOKMARK [1][-]{section.14.5}{Extracting the posteriors}{chapter.14}% 133
+\BOOKMARK [1][-]{section.14.6}{Discussion}{chapter.14}% 134
+\BOOKMARK [1][-]{section.14.7}{Exercises}{chapter.14}% 135
+\BOOKMARK [0][-]{chapter.15}{Dealing with Dimensions}{}% 136
+\BOOKMARK [1][-]{section.15.1}{Belly button bacteria}{chapter.15}% 137
+\BOOKMARK [1][-]{section.15.2}{Lions and tigers and bears}{chapter.15}% 138
+\BOOKMARK [1][-]{section.15.3}{The hierarchical version}{chapter.15}% 139
+\BOOKMARK [1][-]{section.15.4}{Random sampling}{chapter.15}% 140
+\BOOKMARK [1][-]{section.15.5}{Optimization}{chapter.15}% 141
+\BOOKMARK [1][-]{section.15.6}{Collapsing the hierarchy}{chapter.15}% 142
+\BOOKMARK [1][-]{section.15.7}{One more problem}{chapter.15}% 143
+\BOOKMARK [1][-]{section.15.8}{We're not done yet}{chapter.15}% 144
+\BOOKMARK [1][-]{section.15.9}{The belly button data}{chapter.15}% 145
+\BOOKMARK [1][-]{section.15.10}{Predictive distributions}{chapter.15}% 146
+\BOOKMARK [1][-]{section.15.11}{Joint posterior}{chapter.15}% 147
+\BOOKMARK [1][-]{section.15.12}{Coverage}{chapter.15}% 148
+\BOOKMARK [1][-]{section.15.13}{Discussion}{chapter.15}% 149
