@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 FEB 2016 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 FEB 2016 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,186 +657,95 @@ es."""[]
 
 ]
 Chapter 3.
-[21] [22]
+[21] [22] <figs/train1.pdf, id=992, 578.16pt x 433.62pt>
+File: figs/train1.pdf Graphic file (type pdf)
+ <use figs/train1.pdf>
+Package pdftex.def Info: figs/train1.pdf used on input line 1697.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/train1.pdf' not found on input line 1697.
+[23 <./figs/train1.pdf>] [24] <figs/train4.pdf, id=1041, 578.16pt x 433.62pt>
+File: figs/train4.pdf Graphic file (type pdf)
 
-
-! Package pdftex.def Error: File `figs/train1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1697 ...graphics[height=2.5in]{figs/train1.pdf}}
-                                                  
-? 
-[23] [24]
-
-LaTeX Warning: File `figs/train4.pdf' not found on input line 1843.
-
-
-! Package pdftex.def Error: File `figs/train4.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1843 ...graphics[height=2.5in]{figs/train4.pdf}}
-                                                  
-? 
-[25] [26] [27] [28] [29] [30] [31] [32
+<use figs/train4.pdf>
+Package pdftex.def Info: figs/train4.pdf used on input line 1843.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [25] [26 <./figs/train4.pdf>] [27] [28] [29] [30]
+[31] [32
 
 ]
 Chapter 4.
-[33]
+[33] <figs/euro1.pdf, id=1131, 578.16pt x 433.62pt>
+File: figs/euro1.pdf Graphic file (type pdf)
+ <use figs/euro1.pdf>
+Package pdftex.def Info: figs/euro1.pdf used on input line 2182.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/euro1.pdf' not found on input line 2182.
+[34 <./figs/euro1.pdf>] <figs/euro2.pdf, id=1165, 578.16pt x 433.62pt>
+File: figs/euro2.pdf Graphic file (type pdf)
 
+<use figs/euro2.pdf>
+Package pdftex.def Info: figs/euro2.pdf used on input line 2286.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [35] <figs/euro3.pdf, id=1170, 578.16pt x 433.62pt>
+File: figs/euro3.pdf Graphic file (type pdf)
 
-! Package pdftex.def Error: File `figs/euro1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2182 ...egraphics[height=2.5in]{figs/euro1.pdf}}
-                                                  
-? 
-[34]
-
-LaTeX Warning: File `figs/euro2.pdf' not found on input line 2286.
-
-
-! Package pdftex.def Error: File `figs/euro2.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2286 ...egraphics[height=2.5in]{figs/euro2.pdf}}
-                                                  
-? 
-[35]
-
-LaTeX Warning: File `figs/euro3.pdf' not found on input line 2294.
-
-
-! Package pdftex.def Error: File `figs/euro3.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2294 ...egraphics[height=2.5in]{figs/euro3.pdf}}
-                                                  
-? 
-[36] [37] [38] [39] [40] [41] [42
+<use figs/euro3.pdf>
+Package pdftex.def Info: figs/euro3.pdf used on input line 2294.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [36 <./figs/euro2.pdf>] [37 <./figs/euro3.pdf>] [38]
+[39] [40] [41] [42
 
 ]
 Chapter 5.
-[43] [44] [45] [46] [47]
+[43] [44] [45] [46] [47] <figs/dungeons1.pdf, id=1295, 578.16pt x 433.62pt>
+File: figs/dungeons1.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/dungeons1.pdf' not found on input line 2976.
+<use figs/dungeons1.pdf>
+Package pdftex.def Info: figs/dungeons1.pdf used on input line 2976.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ <figs/dungeons2.pdf, id=1298, 578.16pt x 433.62pt>
+File: figs/dungeons2.pdf Graphic file (type pdf)
 
+<use figs/dungeons2.pdf>
+Package pdftex.def Info: figs/dungeons2.pdf used on input line 2997.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [48] [49 <./figs/dungeons1.pdf>] [50 <./figs/dungeons2.pdf>] <figs/dungeons3.p
+df, id=1381, 578.16pt x 433.62pt>
+File: figs/dungeons3.pdf Graphic file (type pdf)
 
-! Package pdftex.def Error: File `figs/dungeons1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2976 ...phics[height=2.5in]{figs/dungeons1.pdf}}
-                                                  
-? 
-
-LaTeX Warning: File `figs/dungeons2.pdf' not found on input line 2997.
-
-
-! Package pdftex.def Error: File `figs/dungeons2.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2997 ...phics[height=2.5in]{figs/dungeons2.pdf}}
-                                                  
-? 
-[48] [49] [50]
-
-LaTeX Warning: File `figs/dungeons3.pdf' not found on input line 3134.
-
-
-! Package pdftex.def Error: File `figs/dungeons3.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3134 ...phics[height=2.5in]{figs/dungeons3.pdf}}
-                                                  
-? 
-[51] [52] [53] [54]
+<use figs/dungeons3.pdf>
+Package pdftex.def Info: figs/dungeons3.pdf used on input line 3134.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [51] [52 <./figs/dungeons3.pdf>] [53] [54]
 Chapter 6.
 [55
 
-]
+] <figs/price1.pdf, id=1443, 578.16pt x 433.62pt>
+File: figs/price1.pdf Graphic file (type pdf)
+ <use figs/price1.pdf>
+Package pdftex.def Info: figs/price1.pdf used on input line 3326.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/price1.pdf' not found on input line 3326.
+[56 <./figs/price1.pdf>] [57] [58]
+<figs/price2.pdf, id=1496, 578.16pt x 433.62pt>
+File: figs/price2.pdf Graphic file (type pdf)
+ <use figs/price2.pdf>
+Package pdftex.def Info: figs/price2.pdf used on input line 3545.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [59]
+[60 <./figs/price2.pdf>] [61] [62]
+<figs/price3.pdf, id=1552, 578.16pt x 433.62pt>
+File: figs/price3.pdf Graphic file (type pdf)
+ <use figs/price3.pdf>
+Package pdftex.def Info: figs/price3.pdf used on input line 3721.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [63 <./figs/price3.pdf>] [64] <figs/price5.pdf, id=1595, 578.16pt x 433.62pt>
+File: figs/price5.pdf Graphic file (type pdf)
 
-
-! Package pdftex.def Error: File `figs/price1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3326 ...graphics[height=2.5in]{figs/price1.pdf}}
-                                                  
-? 
-[56] [57] [58]
-
-LaTeX Warning: File `figs/price2.pdf' not found on input line 3545.
-
-
-! Package pdftex.def Error: File `figs/price2.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3545 ...graphics[height=2.5in]{figs/price2.pdf}}
-                                                  
-? 
-[59] [60] [61] [62]
-
-LaTeX Warning: File `figs/price3.pdf' not found on input line 3721.
-
-
-! Package pdftex.def Error: File `figs/price3.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3721 ...graphics[height=2.5in]{figs/price3.pdf}}
-                                                  
-? 
-[63] [64]
-
-LaTeX Warning: File `figs/price5.pdf' not found on input line 3854.
-
-
-! Package pdftex.def Error: File `figs/price5.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3854 ...graphics[height=2.5in]{figs/price5.pdf}}
-                                                  
-? 
-[65] [66] [67] [68]
+<use figs/price5.pdf>
+Package pdftex.def Info: figs/price5.pdf used on input line 3854.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [65] [66 <./figs/price5.pdf>] [67] [68]
 Chapter 7.
 [69
 
@@ -844,115 +753,63 @@ Chapter 7.
 Underfull \vbox (badness 1466) has occurred while \output is active []
 
  [70]
+<figs/hockey1.pdf, id=1664, 578.16pt x 433.62pt>
+File: figs/hockey1.pdf Graphic file (type pdf)
+ <use figs/hockey1.pdf>
+Package pdftex.def Info: figs/hockey1.pdf used on input line 4141.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/hockey1.pdf' not found on input line 4141.
+[71] <figs/hockey2.pdf, id=1671, 578.16pt x 433.62pt>
+File: figs/hockey2.pdf Graphic file (type pdf)
+ <use figs/hockey2.pdf>
+Package pdftex.def Info: figs/hockey2.pdf used on input line 4183.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
+[72 <./figs/hockey1.pdf>] [73 <./figs/hockey2.pdf>]
+<figs/hockey3.pdf, id=1750, 578.16pt x 433.62pt>
+File: figs/hockey3.pdf Graphic file (type pdf)
+ <use figs/hockey3.pdf>
+Package pdftex.def Info: figs/hockey3.pdf used on input line 4264.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-! Package pdftex.def Error: File `figs/hockey1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4141 ...raphics[height=2.5in]{figs/hockey1.pdf}}
-                                                  
-? 
-[71]
-
-LaTeX Warning: File `figs/hockey2.pdf' not found on input line 4183.
-
-
-! Package pdftex.def Error: File `figs/hockey2.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4183 ...raphics[height=2.5in]{figs/hockey2.pdf}}
-                                                  
-? 
-[72] [73]
-
-LaTeX Warning: File `figs/hockey3.pdf' not found on input line 4264.
-
-
-! Package pdftex.def Error: File `figs/hockey3.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4264 ...raphics[height=2.5in]{figs/hockey3.pdf}}
-                                                  
-? 
-[74] [75] [76] [77] [78] [79] [80
+[74 <./figs/hockey3.pdf>] [75] [76] [77] [78] [79] [80
 
 ]
 Chapter 8.
-
-LaTeX Warning: File `figs/redline0.pdf' not found on input line 4586.
-
-
-! Package pdftex.def Error: File `figs/redline0.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4586 ...aphics[height=2.5in]{figs/redline0.pdf}}
-                                                  
-? 
+<figs/redline0.pdf, id=1827, 578.16pt x 433.62pt>
+File: figs/redline0.pdf Graphic file (type pdf)
+ <use figs/redline0.pdf>
+Package pdftex.def Info: figs/redline0.pdf used on input line 4586.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
 Underfull \vbox (badness 2020) has occurred while \output is active []
 
  [81]
-[82]
+[82 <./figs/redline0.pdf>] <figs/redline2.pdf, id=1864, 578.16pt x 433.62pt>
+File: figs/redline2.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/redline2.pdf' not found on input line 4678.
-
-
-! Package pdftex.def Error: File `figs/redline2.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4678 ...aphics[height=2.5in]{figs/redline2.pdf}}
-                                                  
-? 
+<use figs/redline2.pdf>
+Package pdftex.def Info: figs/redline2.pdf used on input line 4678.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
 Underfull \vbox (badness 2088) has occurred while \output is active []
 
  [83]
-[84] [85]
+[84 <./figs/redline2.pdf>] [85]
+<figs/redline3.pdf, id=1910, 578.16pt x 433.62pt>
+File: figs/redline3.pdf Graphic file (type pdf)
+ <use figs/redline3.pdf>
+Package pdftex.def Info: figs/redline3.pdf used on input line 4804.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/redline3.pdf' not found on input line 4804.
+[86 <./figs/redline3.pdf>] [87] [88]
+<figs/redline1.pdf, id=1962, 578.16pt x 433.62pt>
+File: figs/redline1.pdf Graphic file (type pdf)
+ <use figs/redline1.pdf>
+Package pdftex.def Info: figs/redline1.pdf used on input line 4962.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-
-! Package pdftex.def Error: File `figs/redline3.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4804 ...aphics[height=2.5in]{figs/redline3.pdf}}
-                                                  
-? 
-[86] [87] [88]
-
-LaTeX Warning: File `figs/redline1.pdf' not found on input line 4962.
-
-
-! Package pdftex.def Error: File `figs/redline1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4962 ...aphics[height=2.5in]{figs/redline1.pdf}}
-                                                  
-? 
-[89]
+[89 <./figs/redline1.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 5025--5032
 []\T1/ppl/m/n/12 This \T1/cmtt/m/n/12 Likelihood \T1/ppl/m/n/12 might look fa-m
 il-iar; it is al-most iden-ti-cal to
@@ -970,113 +827,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 5025--5032
 /m/n/12 x\T1/ppl/m/n/12 , the elapsed time; in
  []
 
-[90]
+[90] <figs/redline4.pdf, id=2010, 578.16pt x 433.62pt>
+File: figs/redline4.pdf Graphic file (type pdf)
+ <use figs/redline4.pdf>
+Package pdftex.def Info: figs/redline4.pdf used on input line 5070.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/redline4.pdf' not found on input line 5070.
-
-
-! Package pdftex.def Error: File `figs/redline4.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5070 ...aphics[height=2.5in]{figs/redline4.pdf}}
-                                                  
-? 
-[91]
+[91 <./figs/redline4.pdf>]
 Underfull \hbox (badness 2818) in paragraph at lines 5097--5099
 []\T1/ppl/m/n/12 We have al-ready done steps (1) and (2). I wrote a class calle
 d
  []
 
+<figs/redline5.pdf, id=2047, 578.16pt x 433.62pt>
+File: figs/redline5.pdf Graphic file (type pdf)
+ <use figs/redline5.pdf>
+Package pdftex.def Info: figs/redline5.pdf used on input line 5152.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/redline5.pdf' not found on input line 5152.
-
-
-! Package pdftex.def Error: File `figs/redline5.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5152 ...aphics[height=2.5in]{figs/redline5.pdf}}
-                                                  
-? 
-[92] [93] [94] [95] [96]
+[92] [93 <./figs/redline5.pdf>] [94] [95] [96]
 Chapter 9.
+<figs/paintball.pdf, id=2114, 271.18492pt x 246.52101pt>
+File: figs/paintball.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/paintball.pdf' not found on input line 5380.
-
-
-! Package pdftex.def Error: File `figs/paintball.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5380 ...phics[height=2.5in]{figs/paintball.pdf}}
-                                                  
-? 
-[97
+<use figs/paintball.pdf>
+Package pdftex.def Info: figs/paintball.pdf used on input line 5380.
+(pdftex.def)             Requested size: 198.75368pt x 180.67499pt.
+ [97
 
 ]
+<figs/paintball2.pdf, id=2122, 578.16pt x 433.62pt>
+File: figs/paintball2.pdf Graphic file (type pdf)
+ <use figs/paintball2.pdf>
+Package pdftex.def Info: figs/paintball2.pdf used on input line 5415.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/paintball2.pdf' not found on input line 5415.
+[98 <./figs/paintball.pdf>] [99 <./figs/paintball2.pdf>]
+<figs/paintball1.pdf, id=2224, 578.16pt x 433.62pt>
+File: figs/paintball1.pdf Graphic file (type pdf)
+ <use figs/paintball1.pdf>
+Package pdftex.def Info: figs/paintball1.pdf used on input line 5489.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
+[100 <./figs/paintball1.pdf>] [101]
+<figs/paintball3.pdf, id=2263, 578.16pt x 433.62pt>
+File: figs/paintball3.pdf Graphic file (type pdf)
+ <use figs/paintball3.pdf>
+Package pdftex.def Info: figs/paintball3.pdf used on input line 5623.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-! Package pdftex.def Error: File `figs/paintball2.pdf' not found.
+[102] [103 <./figs/paintball3.pdf>]
+<figs/paintball5.pdf, id=2306, 578.16pt x 433.62pt>
+File: figs/paintball5.pdf Graphic file (type pdf)
+ <use figs/paintball5.pdf>
+Package pdftex.def Info: figs/paintball5.pdf used on input line 5687.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5415 ...hics[height=2.5in]{figs/paintball2.pdf}}
-                                                  
-? 
-[98] [99]
-
-LaTeX Warning: File `figs/paintball1.pdf' not found on input line 5489.
-
-
-! Package pdftex.def Error: File `figs/paintball1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5489 ...hics[height=2.5in]{figs/paintball1.pdf}}
-                                                  
-? 
-[100] [101]
-
-LaTeX Warning: File `figs/paintball3.pdf' not found on input line 5623.
-
-
-! Package pdftex.def Error: File `figs/paintball3.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5623 ...hics[height=2.5in]{figs/paintball3.pdf}}
-                                                  
-? 
-[102] [103]
-
-LaTeX Warning: File `figs/paintball5.pdf' not found on input line 5687.
-
-
-! Package pdftex.def Error: File `figs/paintball5.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5687 ...hics[height=2.5in]{figs/paintball5.pdf}}
-                                                  
-? 
-[104] [105]
+[104 <./figs/paintball5.pdf>] [105]
 Underfull \hbox (badness 1297) in paragraph at lines 5776--5782
 []\T1/ppl/m/n/12 I also pre-sented \T1/cmtt/m/n/12 Joint\T1/ppl/m/n/12 , which 
 is a par-ent class that pro-vides meth-
@@ -1111,51 +918,33 @@ a**2[]
  []
 
 [117] [118]
+<figs/variability_posterior_male.pdf, id=3887, 578.16pt x 433.62pt>
+File: figs/variability_posterior_male.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/variability_posterior_male.pdf' not found on input li
-ne 6459.
+<use figs/variability_posterior_male.pdf>
+Package pdftex.def Info: figs/variability_posterior_male.pdf used on input line
+ 6459.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
+<figs/variability_posterior_female.pdf, id=3888, 578.16pt x 433.62pt>
+File: figs/variability_posterior_female.pdf Graphic file (type pdf)
 
-! Package pdftex.def Error: File `figs/variability_posterior_male.pdf' not foun
-d.
+<use figs/variability_posterior_female.pdf>
+Package pdftex.def Info: figs/variability_posterior_female.pdf used on input li
+ne 6467.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [119] [120 <./figs/variability_posterior_male.pdf> <./figs/variability_posteri
+or_female.pdf
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6459 ...n]{figs/variability_posterior_male.pdf}}
-                                                  
-? 
+pdfTeX warning: pdflatex (file ./figs/variability_posterior_female.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+>] [121] <figs/variability_cv.pdf, id=3997, 578.16pt x 433.62pt>
+File: figs/variability_cv.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/variability_posterior_female.pdf' not found on input 
-line 6467.
-
-
-! Package pdftex.def Error: File `figs/variability_posterior_female.pdf' not fo
-und.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6467 ...{figs/variability_posterior_female.pdf}}
-                                                  
-? 
-[119] [120] [121]
-
-LaTeX Warning: File `figs/variability_cv.pdf' not found on input line 6575.
-
-
-! Package pdftex.def Error: File `figs/variability_cv.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6575 ...[height=2.5in]{figs/variability_cv.pdf}}
-                                                  
-? 
-[122] [123] [124]
+<use figs/variability_cv.pdf>
+Package pdftex.def Info: figs/variability_cv.pdf used on input line 6575.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [122 <./figs/variability_cv.pdf>] [123] [124]
 Chapter 11.
 [125
 
@@ -1163,102 +952,58 @@ Chapter 11.
 Chapter 12.
 [131
 
-] [132]
+] [132] <figs/sat_prior.pdf, id=4098, 578.16pt x 433.62pt>
+File: figs/sat_prior.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/sat_prior.pdf' not found on input line 7123.
+<use figs/sat_prior.pdf>
+Package pdftex.def Info: figs/sat_prior.pdf used on input line 7123.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [133 <./figs/sat_prior.pdf>]
+<figs/sat_posteriors_p_corr.pdf, id=4130, 578.16pt x 433.62pt>
+File: figs/sat_posteriors_p_corr.pdf Graphic file (type pdf)
 
-
-! Package pdftex.def Error: File `figs/sat_prior.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7123 ...phics[height=2.5in]{figs/sat_prior.pdf}}
-                                                  
-? 
-[133]
-
-LaTeX Warning: File `figs/sat_posteriors_p_corr.pdf' not found on input line 71
-89.
-
-
-! Package pdftex.def Error: File `figs/sat_posteriors_p_corr.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7189 ...=2.5in]{figs/sat_posteriors_p_corr.pdf}}
-                                                  
-? 
-[134] [135] [136] [137]
+<use figs/sat_posteriors_p_corr.pdf>
+Package pdftex.def Info: figs/sat_posteriors_p_corr.pdf used on input line 7189
+.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [134 <./figs/sat_posteriors_p_corr.pdf>]
+[135] [136] [137]
 Underfull \hbox (badness 10000) in paragraph at lines 7408--7413
 \T1/ppl/m/n/12 If we were given the dis-tri-bu-tion of dif-fi-culty, we could u
 se
  []
 
+<figs/sat_calibrate.pdf, id=4183, 578.16pt x 433.62pt>
+File: figs/sat_calibrate.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/sat_calibrate.pdf' not found on input line 7416.
+<use figs/sat_calibrate.pdf>
+Package pdftex.def Info: figs/sat_calibrate.pdf used on input line 7416.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [138]
+<figs/sat_posteriors_eff.pdf, id=4190, 433.62pt x 433.62pt>
+File: figs/sat_posteriors_eff.pdf Graphic file (type pdf)
 
+<use figs/sat_posteriors_eff.pdf>
+Package pdftex.def Info: figs/sat_posteriors_eff.pdf used on input line 7472.
+(pdftex.def)             Requested size: 180.67676pt x 180.67499pt.
+ [139 <./figs/sat_calibrate.pdf>] [140 <./figs/sat_posteriors_eff.pdf>] [141]
+<figs/sat_joint.pdf, id=4266, 433.62pt x 433.62pt>
+File: figs/sat_joint.pdf Graphic file (type pdf)
+ <use figs/sat_joint.pdf>
+Package pdftex.def Info: figs/sat_joint.pdf used on input line 7590.
+(pdftex.def)             Requested size: 180.67676pt x 180.67499pt.
 
-! Package pdftex.def Error: File `figs/sat_calibrate.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7416 ...s[height=2.5in]{figs/sat_calibrate.pdf}}
-                                                  
-? 
-[138]
-
-LaTeX Warning: File `figs/sat_posteriors_eff.pdf' not found on input line 7472.
-
-
-
-! Package pdftex.def Error: File `figs/sat_posteriors_eff.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7472 ...ght=2.5in]{figs/sat_posteriors_eff.pdf}}
-                                                  
-? 
-[139] [140] [141]
-
-LaTeX Warning: File `figs/sat_joint.pdf' not found on input line 7590.
-
-
-! Package pdftex.def Error: File `figs/sat_joint.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7590 ...phics[height=2.5in]{figs/sat_joint.pdf}}
-                                                  
-? 
-[142] [143] [144
+[142 <./figs/sat_joint.pdf>] [143] [144
 
 ]
 Chapter 13.
-[145]
+[145] <figs/kidney2.pdf, id=4539, 578.16pt x 433.62pt>
+File: figs/kidney2.pdf Graphic file (type pdf)
+ <use figs/kidney2.pdf>
+Package pdftex.def Info: figs/kidney2.pdf used on input line 7700.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/kidney2.pdf' not found on input line 7700.
-
-
-! Package pdftex.def Error: File `figs/kidney2.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7700 ...raphics[height=2.5in]{figs/kidney2.pdf}}
-                                                  
-? 
-[146]
+[146 <./figs/kidney2.pdf>]
 Overfull \hbox (22.3125pt too wide) in paragraph at lines 7755--7755
 []    \T1/cmtt/m/n/12 # doubling time in linear measure is doubling time in vol
 ume * 3[] 
@@ -1270,68 +1015,37 @@ Overfull \hbox (3.79202pt too wide) in paragraph at lines 7755--7755
  cm)[] 
  []
 
-[147] [148]
+[147] [148] <figs/kidney4.pdf, id=4604, 578.16pt x 433.62pt>
+File: figs/kidney4.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/kidney4.pdf' not found on input line 7855.
-
-
-! Package pdftex.def Error: File `figs/kidney4.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7855 ...raphics[height=2.5in]{figs/kidney4.pdf}}
-                                                  
-? 
-[149]
+<use figs/kidney4.pdf>
+Package pdftex.def Info: figs/kidney4.pdf used on input line 7855.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [149 <./figs/kidney4.pdf>]
 Overfull \hbox (28.486pt too wide) in paragraph at lines 7901--7901
 []\T1/cmtt/m/n/12 def MakeSequence(rdt_seq, v0=0.01, interval=0.67, vmax=Volume
 (20.0)):[] 
  []
 
-[150]
+[150] <figs/kidney8.pdf, id=4656, 578.16pt x 433.62pt>
+File: figs/kidney8.pdf Graphic file (type pdf)
+ <use figs/kidney8.pdf>
+Package pdftex.def Info: figs/kidney8.pdf used on input line 7951.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/kidney8.pdf' not found on input line 7951.
+<figs/kidney6.pdf, id=4657, 578.16pt x 433.62pt>
+File: figs/kidney6.pdf Graphic file (type pdf)
+ <use figs/kidney6.pdf>
+Package pdftex.def Info: figs/kidney6.pdf used on input line 7988.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
+[151 <./figs/kidney8.pdf>] <figs/kidney7.pdf, id=7960, 578.16pt x 433.62pt>
+File: figs/kidney7.pdf Graphic file (type pdf)
 
-! Package pdftex.def Error: File `figs/kidney8.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7951 ...raphics[height=2.5in]{figs/kidney8.pdf}}
-                                                  
-? 
-
-LaTeX Warning: File `figs/kidney6.pdf' not found on input line 7988.
-
-
-! Package pdftex.def Error: File `figs/kidney6.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7988 ...raphics[height=2.5in]{figs/kidney6.pdf}}
-                                                  
-? 
-[151]
-
-LaTeX Warning: File `figs/kidney7.pdf' not found on input line 8029.
-
-
-! Package pdftex.def Error: File `figs/kidney7.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8029 ...raphics[height=2.5in]{figs/kidney7.pdf}}
-                                                  
-? 
-[152]
+<use figs/kidney7.pdf>
+Package pdftex.def Info: figs/kidney7.pdf used on input line 8029.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [152 <./figs/kidney6.pdf>]
 Underfull \hbox (badness 2837) in paragraph at lines 8052--8056
 [][]\T1/cmtt/m/n/12 bucket \T1/ppl/m/n/12 is the in-te-ger bucket num-ber cor-r
 e-spond-ing to tu-mor size.
@@ -1340,48 +1054,24 @@ e-spond-ing to tu-mor size.
 
 Underfull \vbox (badness 1303) has occurred while \output is active []
 
- [153]
-[154] [155]
-
-! LaTeX Error: File `kidney_table2.tex' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
-
-Enter file name: 
-[156] [157] [158
+ [153 <./figs/kidney7.pdf>] [154] [155] (./kidney_table2.tex) [156] [157] [158
 
 ]
 Chapter 14.
-[159]
+[159] <figs/jaynes1.pdf, id=8090, 578.16pt x 433.62pt>
+File: figs/jaynes1.pdf Graphic file (type pdf)
+ <use figs/jaynes1.pdf>
+Package pdftex.def Info: figs/jaynes1.pdf used on input line 8376.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-LaTeX Warning: File `figs/jaynes1.pdf' not found on input line 8376.
+[160 <./figs/jaynes1.pdf>] [161] [162]
+<figs/jaynes2.pdf, id=8141, 578.16pt x 433.62pt>
+File: figs/jaynes2.pdf Graphic file (type pdf)
+ <use figs/jaynes2.pdf>
+Package pdftex.def Info: figs/jaynes2.pdf used on input line 8548.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
-
-! Package pdftex.def Error: File `figs/jaynes1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8376 ...raphics[height=2.5in]{figs/jaynes1.pdf}}
-                                                  
-? 
-[160] [161] [162]
-
-LaTeX Warning: File `figs/jaynes2.pdf' not found on input line 8548.
-
-
-! Package pdftex.def Error: File `figs/jaynes2.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8548 ...raphics[height=2.5in]{figs/jaynes2.pdf}}
-                                                  
-? 
-[163]
+[163 <./figs/jaynes2.pdf>]
 Overfull \hbox (40.83298pt too wide) in paragraph at lines 8562--8562
 []        \T1/cmtt/m/n/12 items = [(detector.r, prob) for detector, prob in sel
 f.Items()][] 
@@ -1391,86 +1081,47 @@ f.Items()][]
 
 ]
 Chapter 15.
-[167] [168] [169]
+[167] [168] [169] <figs/species1.pdf, id=8216, 578.16pt x 433.62pt>
+File: figs/species1.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/species1.pdf' not found on input line 8863.
-
-
-! Package pdftex.def Error: File `figs/species1.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8863 ...aphics[height=2.5in]{figs/species1.pdf}}
-                                                  
-? 
-[170]
+<use figs/species1.pdf>
+Package pdftex.def Info: figs/species1.pdf used on input line 8863.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [170 <./figs/species1.pdf>]
 Underfull \hbox (badness 2384) in paragraph at lines 8944--8948
 []\T1/cmtt/m/n/12 data \T1/ppl/m/n/12 is a se-quence of ob-served counts; \T1/c
 mtt/m/n/12 hypo \T1/ppl/m/n/12 is a Dirich-let ob-ject.
  []
 
-[171] [172]
+[171] [172] <figs/species2.pdf, id=8264, 578.16pt x 433.62pt>
+File: figs/species2.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/species2.pdf' not found on input line 9035.
+<use figs/species2.pdf>
+Package pdftex.def Info: figs/species2.pdf used on input line 9035.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [173 <./figs/species2.pdf>] [174] [175] [176] [177]
+[178] [179] [180] <figs/species-ndist-B1242.pdf, id=8336, 578.16pt x 433.62pt>
+File: figs/species-ndist-B1242.pdf Graphic file (type pdf)
 
+<use figs/species-ndist-B1242.pdf>
+Package pdftex.def Info: figs/species-ndist-B1242.pdf used on input line 9500.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [181]
+<figs/species-prev-B1242.pdf, id=8343, 578.16pt x 433.62pt>
+File: figs/species-prev-B1242.pdf Graphic file (type pdf)
 
-! Package pdftex.def Error: File `figs/species2.pdf' not found.
+<use figs/species-prev-B1242.pdf>
+Package pdftex.def Info: figs/species-prev-B1242.pdf used on input line 9552.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [182 <./figs/species-ndist-B1242.pdf>]
+<figs/species-rare-B1242.pdf, id=8381, 578.16pt x 433.62pt>
+File: figs/species-rare-B1242.pdf Graphic file (type pdf)
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9035 ...aphics[height=2.5in]{figs/species2.pdf}}
-                                                  
-? 
-[173] [174] [175] [176] [177] [178] [179] [180]
-
-LaTeX Warning: File `figs/species-ndist-B1242.pdf' not found on input line 9500
-.
-
-
-! Package pdftex.def Error: File `figs/species-ndist-B1242.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9500 ...ht=2.5in]{figs/species-ndist-B1242.pdf}}
-                                                  
-? 
-[181]
-
-LaTeX Warning: File `figs/species-prev-B1242.pdf' not found on input line 9552.
-
-
-
-! Package pdftex.def Error: File `figs/species-prev-B1242.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9552 ...ght=2.5in]{figs/species-prev-B1242.pdf}}
-                                                  
-? 
-[182]
-
-LaTeX Warning: File `figs/species-rare-B1242.pdf' not found on input line 9587.
-
-
-
-! Package pdftex.def Error: File `figs/species-rare-B1242.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9587 ...ght=2.5in]{figs/species-rare-B1242.pdf}}
-                                                  
-? 
-[183] [184]
+<use figs/species-rare-B1242.pdf>
+Package pdftex.def Info: figs/species-rare-B1242.pdf used on input line 9587.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [183 <./figs/species-prev-B1242.pdf>]
+[184 <./figs/species-rare-B1242.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 9670--9672
 []\T1/ppl/m/n/12 Before we see the re-sults, let's look at \T1/cmtt/m/n/12 GetS
 eenSpecies \T1/ppl/m/n/12 and
@@ -1488,41 +1139,23 @@ Underfull \hbox (badness 1286) in paragraph at lines 9701--9704
 hausted, it yields
  []
 
-[185] [186]
+[185] [186] <figs/species-cond-B1242.pdf, id=8462, 578.16pt x 433.62pt>
+File: figs/species-cond-B1242.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `figs/species-cond-B1242.pdf' not found on input line 9772.
+<use figs/species-cond-B1242.pdf>
+Package pdftex.def Info: figs/species-cond-B1242.pdf used on input line 9772.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
+ [187 <./figs/species-cond-B1242.pdf>]
+<figs/species-frac-B1242.pdf, id=8499, 578.16pt x 433.62pt>
+File: figs/species-frac-B1242.pdf Graphic file (type pdf)
 
-
-
-! Package pdftex.def Error: File `figs/species-cond-B1242.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9772 ...ght=2.5in]{figs/species-cond-B1242.pdf}}
-                                                  
-? 
-[187]
-
-LaTeX Warning: File `figs/species-frac-B1242.pdf' not found on input line 9838.
-
-
-
-! Package pdftex.def Error: File `figs/species-frac-B1242.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9838 ...ght=2.5in]{figs/species-frac-B1242.pdf}}
-                                                  
-? 
+<use figs/species-frac-B1242.pdf>
+Package pdftex.def Info: figs/species-frac-B1242.pdf used on input line 9838.
+(pdftex.def)             Requested size: 240.90234pt x 180.67499pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [188]
-[189]
+ [188 <./figs/species-frac-B1242.pdf>] [189]
 Underfull \hbox (badness 10000) in paragraph at lines 9912--9914
 []\T1/ppl/m/n/12 You can read about the prob-lems, and how I ad-dressed
  []
@@ -1533,10 +1166,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 9912--9914
 com / 2013 / 05 /
  []
 
-[190]
-No file book.ind.
+[190] (./book.ind [191]
+Underfull \hbox (badness 8189) in paragraph at lines 5--6
+[]\T1/ppl/m/n/12 Approximate Bayesian Com-pu-ta-
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 54--57
+[]\T1/ppl/m/n/12 conditional dis-tri-bu-tion, []103[], []106[],
+ []
+
+
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+ [192
+
+]
+[193] [194]
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+[]\T1/ppl/m/n/12 Veterans' Ben-e-fit Ad-min-is-tra-tion,
+ []
+
+[195])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9987.
-[191]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 9987.
  (./book.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 9987.
@@ -1547,10 +1199,10 @@ Package rerunfilecheck Info: File `book.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9987.
  ) 
 Here is how much of TeX's memory you used:
- 9298 strings out of 493089
- 135564 string characters out of 6134842
- 227205 words of memory out of 5000000
- 12091 multiletter control sequences out of 15000+600000
+ 9498 strings out of 493089
+ 140442 string characters out of 6134842
+ 231205 words of memory out of 5000000
+ 12283 multiletter control sequences out of 15000+600000
  45716 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,11n,43p,298b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1568,10 +1220,10 @@ ist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2015/texmf-dis
 t/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts
 /type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
 urw/palatino/uplri8a.pfb>
-Output written on book.pdf (209 pages, 540524 bytes).
+Output written on book.pdf (213 pages, 2414212 bytes).
 PDF statistics:
- 2156 PDF objects out of 2487 (max. 8388607)
- 1914 compressed objects within 20 object streams
- 480 named destinations out of 1000 (max. 500000)
- 1193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 9216 PDF objects out of 10688 (max. 8388607)
+ 2733 compressed objects within 28 object streams
+ 484 named destinations out of 1000 (max. 500000)
+ 1433 words of extra memory for PDF output out of 10000 (max. 10000000)
 
