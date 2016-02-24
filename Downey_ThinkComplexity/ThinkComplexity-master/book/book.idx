@@ -1,0 +1,714 @@
+\indexentry{contributors}{vii}
+\indexentry{contributors}{vii}
+\indexentry{data structure}{1}
+\indexentry{algorithm}{1}
+\indexentry{graph algorithm}{1}
+\indexentry{Think Python@{\em Think Python}}{1}
+\indexentry{modeling}{1}
+\indexentry{philosophy}{1}
+\indexentry{complexity science}{1}
+\indexentry{complexity science}{1}
+\indexentry{complex systems}{1}
+\indexentry{Wolfram, Stephen}{2}
+\indexentry{New Kind of Science@{\it A New Kind of Science}}{2}
+\indexentry{gravitation}{2}
+\indexentry{planetary motion}{2}
+\indexentry{proof}{2}
+\indexentry{natural law}{2}
+\indexentry{Schelling}{2}
+\indexentry{segregation}{2}
+\indexentry{Detroit}{2}
+\indexentry{Schelling, Thomas}{2}
+\indexentry{agent}{2}
+\indexentry{agent-based model}{2}
+\indexentry{segregation}{2}
+\indexentry{racism}{3}
+\indexentry{xenophobia}{3}
+\indexentry{abstract model}{3}
+\indexentry{simplification}{3}
+\indexentry{justification}{3}
+\indexentry{modeling}{3}
+\indexentry{paradigm shift}{3}
+\indexentry{Kuhn, Thomas}{3}
+\indexentry{Structure of Scientific Revolutions@{\it The Structure of Scientific Revolutions}}{3}
+\indexentry{complexity science}{3}
+\indexentry{Strogatz, Steven}{3}
+\indexentry{Sync@{\it Sync}}{3}
+\indexentry{fireflies}{3}
+\indexentry{synchronization}{3}
+\indexentry{proof}{4}
+\indexentry{computational model}{4}
+\indexentry{fringe science}{4}
+\indexentry{pseudoscience}{4}
+\indexentry{criteria for models}{4}
+\indexentry{continuous}{4}
+\indexentry{discrete}{4}
+\indexentry{linear}{5}
+\indexentry{non-linear}{5}
+\indexentry{deterministic}{5}
+\indexentry{stochastic}{5}
+\indexentry{spherical cow}{5}
+\indexentry{cow, spherical}{5}
+\indexentry{one, two, many}{5}
+\indexentry{homogeneous}{5}
+\indexentry{composite}{5}
+\indexentry{Appel, Kenneth}{5}
+\indexentry{Hacken, Wolfgang}{5}
+\indexentry{four-color theorem}{5}
+\indexentry{economic man}{5}
+\indexentry{Homo economicus}{5}
+\indexentry{economics}{5}
+\indexentry{complex model}{5}
+\indexentry{predictive model}{5}
+\indexentry{explanatory model}{5}
+\indexentry{realism}{6}
+\indexentry{instrumentalism}{6}
+\indexentry{reductionism}{6}
+\indexentry{holism}{6}
+\indexentry{engineering}{6}
+\indexentry{centralized}{6}
+\indexentry{decentralized}{6}
+\indexentry{client-server architecture}{6}
+\indexentry{peer-to-peer architecture}{6}
+\indexentry{isolation}{6}
+\indexentry{interaction}{6}
+\indexentry{broadcast service}{6}
+\indexentry{top-down}{6}
+\indexentry{bottom-up}{6}
+\indexentry{grassroots}{6}
+\indexentry{analysis}{6}
+\indexentry{computation}{6}
+\indexentry{Eiffel Tower}{6}
+\indexentry{Eiffel, Gustave}{6}
+\indexentry{Gehry, Frank}{6}
+\indexentry{Guggenheim Museum Bilbao}{6}
+\indexentry{design}{7}
+\indexentry{search}{7}
+\indexentry{logic}{7}
+\indexentry{epistemology}{7}
+\indexentry{Aristotelian logic}{7}
+\indexentry{many-valued logic}{7}
+\indexentry{Kosko, Bart}{7}
+\indexentry{Fuzzy Thinking@{\it Fuzzy Thinking}}{7}
+\indexentry{uncertainty}{7}
+\indexentry{frequentist}{7}
+\indexentry{Bayesian}{7}
+\indexentry{McGrayne, Sharon Bertsch}{7}
+\indexentry{Theory That Would Not Die, The@{\it The Theory That Would Not Die}}{7}
+\indexentry{objective}{7}
+\indexentry{subjective}{7}
+\indexentry{Kuhn, Thomas}{7}
+\indexentry{Godel's Incompleteness Theorem@G\"{o}del's Incompleteness Theorem}{7}
+\indexentry{incompleteness}{7}
+\indexentry{Goldstein, Rebecca}{7}
+\indexentry{Incompleteness@{\it Incompleteness}}{7}
+\indexentry{physical law}{7}
+\indexentry{theory}{7}
+\indexentry{model}{7}
+\indexentry{determinism}{7}
+\indexentry{indeterminism}{7}
+\indexentry{free will}{7}
+\indexentry{Kuhn, Thomas}{8}
+\indexentry{Structure of Scientific Revolutions@{\it The Structure of Scientific Revolutions}}{8}
+\indexentry{graph}{9}
+\indexentry{node}{9}
+\indexentry{edge}{9}
+\indexentry{vertex}{9}
+\indexentry{road network}{9}
+\indexentry{social network}{9}
+\indexentry{edge weight}{9}
+\indexentry{weight}{9}
+\indexentry{directed graph}{9}
+\indexentry{undirected graph}{9}
+\indexentry{graph theory}{9}
+\indexentry{graph algorithm}{9}
+\indexentry{path}{9}
+\indexentry{shortest distance}{9}
+\indexentry{problem formulation}{10}
+\indexentry{radioactive decay}{10}
+\indexentry{decay chain}{10}
+\indexentry{half life}{10}
+\indexentry{becquerel}{10}
+\indexentry{random process}{10}
+\indexentry{applying graph algorithm}{10}
+\indexentry{simple graph}{10}
+\indexentry{regular graph}{10}
+\indexentry{complete graph}{10}
+\indexentry{path}{10}
+\indexentry{cycle}{10}
+\indexentry{forest}{10}
+\indexentry{connected graph}{10}
+\indexentry{representing graphs}{11}
+\indexentry{graph layout}{11}
+\indexentry{data structure}{11}
+\indexentry{dictionary}{11}
+\indexentry{nested dictionary}{11}
+\indexentry{Graph@{\tt Graph}}{11}
+\indexentry{inheritance}{12}
+\indexentry{vertex}{12}
+\indexentry{edge}{12}
+\indexentry{optional parameter}{12}
+\indexentry{directed edge}{12}
+\indexentry{undirected edge}{12}
+\indexentry{Vertex@{\tt Vertex}}{12}
+\indexentry{label}{12}
+\indexentry{repr@{\tt \_\_repr\_\_}}{12}
+\indexentry{str@{\tt \_\_str\_\_}}{12}
+\indexentry{str@{\tt str}}{12}
+\indexentry{repr@{\tt repr}}{12}
+\indexentry{Edge@{\tt Edge}}{12}
+\indexentry{tuple}{13}
+\indexentry{new@{\tt \_\_new\_\_}}{13}
+\indexentry{init@{\tt \_\_init\_\_}}{13}
+\indexentry{mutable objects}{13}
+\indexentry{immutable objects}{13}
+\indexentry{override}{13}
+\indexentry{inheritance}{13}
+\indexentry{graph methods}{13}
+\indexentry{GraphWorld@{\tt GraphWorld}}{14}
+\indexentry{Swampy}{14}
+\indexentry{regular graph}{14}
+\indexentry{degree}{14}
+\indexentry{Erdos-Renyi model@\Erdos-\Renyi~model}{14}
+\indexentry{random graph}{14}
+\indexentry{RandomGraph@{\tt RandomGraph}}{14}
+\indexentry{connected graph}{14}
+\indexentry{path}{14}
+\indexentry{breadth-first search}{14}
+\indexentry{BFS}{14}
+\indexentry{visting a node}{15}
+\indexentry{marking a node}{15}
+\indexentry{queue}{15}
+\indexentry{worklist}{15}
+\indexentry{Erdos, Paul@\Erdos, Paul}{15}
+\indexentry{caffeine}{15}
+\indexentry{amphetamine}{15}
+\indexentry{Renyi, Afred@\Renyi, Afr\'{e}d}{15}
+\indexentry{phase chance}{15}
+\indexentry{threshold value}{15}
+\indexentry{critical value}{15}
+\indexentry{iterator}{16}
+\indexentry{StopIteration@{\tt StopIteration}}{16}
+\indexentry{for@{\tt for} loop}{16}
+\indexentry{dictionary}{16}
+\indexentry{itertools@{\tt itertools}}{16}
+\indexentry{iter@{\tt \_\_iter\_\_}}{16}
+\indexentry{infinite sequence}{17}
+\indexentry{generator}{17}
+\indexentry{yield@{\tt yield}}{17}
+\indexentry{infinite loop}{17}
+\indexentry{algorithm}{19}
+\indexentry{analysis of algorithms}{19}
+\indexentry{Obama, Barack}{19}
+\indexentry{Schmidt, Eric}{19}
+\indexentry{bubble sort}{19}
+\indexentry{radix sort}{19}
+\indexentry{comparing algorithms}{19}
+\indexentry{machine model}{19}
+\indexentry{worst case}{19}
+\indexentry{average case}{19}
+\indexentry{asymptotic analysis}{20}
+\indexentry{order of growth}{20}
+\indexentry{leading term}{20}
+\indexentry{exponent}{20}
+\indexentry{leading coefficient}{20}
+\indexentry{crossover point}{20}
+\indexentry{big-oh notation}{21}
+\indexentry{linear growth}{21}
+\indexentry{quadratic growth}{21}
+\indexentry{badness}{21}
+\indexentry{logarithmic growth}{21}
+\indexentry{exponential growth}{21}
+\indexentry{practical analysis of algorithms}{21}
+\indexentry{unbounded}{21}
+\indexentry{analysis of primitives}{22}
+\indexentry{indexing}{22}
+\indexentry{string concatenation}{22}
+\indexentry{join@{\tt join}}{22}
+\indexentry{string methods}{22}
+\indexentry{tuple methods}{22}
+\indexentry{list methods}{22}
+\indexentry{sorting}{22}
+\indexentry{dictionary methods}{22}
+\indexentry{sorting}{23}
+\indexentry{comparison sort}{23}
+\indexentry{stable sort}{23}
+\indexentry{search}{23}
+\indexentry{linear search}{23}
+\indexentry{in@{\tt in} operator}{23}
+\indexentry{bisection   search}{24}
+\indexentry{bisect@{\tt bisect} module}{24}
+\indexentry{bisect module}{24}
+\indexentry{module!bisect}{24}
+\indexentry{hashtable}{24}
+\indexentry{LinearMap@{\tt LinearMap}}{24}
+\indexentry{KeyError@{\tt KeyError}}{25}
+\indexentry{red-black tree}{25}
+\indexentry{BetterMap@{\tt BetterMap}}{25}
+\indexentry{hash function}{25}
+\indexentry{bounded}{26}
+\indexentry{HashMap}{26}
+\indexentry{rehashing}{26}
+\indexentry{constant time}{27}
+\indexentry{average cost}{27}
+\indexentry{geometric resizing}{27}
+\indexentry{object-oriented design}{27}
+\indexentry{len@{\tt \_\_len\_\_}}{27}
+\indexentry{generator}{28}
+\indexentry{red-black tree}{28}
+\indexentry{TreeMap@{\tt TreeMap}}{28}
+\indexentry{summing lists}{28}
+\indexentry{+=@{\tt +=} operator}{28}
+\indexentry{extend@{\tt extend}}{28}
+\indexentry{sum@{\tt sum}}{28}
+\indexentry{os module@{\tt os} module}{28}
+\indexentry{user time}{28}
+\indexentry{system time}{28}
+\indexentry{IPython}{29}
+\indexentry{timeit@{\tt timeit}}{29}
+\indexentry{quadratic}{29}
+\indexentry{log-log scale}{29}
+\indexentry{linear}{29}
+\indexentry{quadratic}{29}
+\indexentry{pyplot@{\tt pyplot}}{29}
+\indexentry{pyplot}{29}
+\indexentry{matplotlib}{29}
+\indexentry{list comprehension}{31}
+\indexentry{traverse list}{31}
+\indexentry{list of tuples}{32}
+\indexentry{iteritems@{\tt iteritems}}{32}
+\indexentry{graph methods}{32}
+\indexentry{analysis of graph algorithms}{33}
+\indexentry{graph algorithm}{33}
+\indexentry{breadth first search}{33}
+\indexentry{BFS}{33}
+\indexentry{quadratic}{33}
+\indexentry{constant time}{33}
+\indexentry{queue}{33}
+\indexentry{FIFO queue}{34}
+\indexentry{doubly-linked list}{34}
+\indexentry{circular buffer}{34}
+\indexentry{dictionary}{34}
+\indexentry{DictFifo@{\tt DictFifo}}{34}
+\indexentry{deque}{34}
+\indexentry{double-ended queue}{34}
+\indexentry{order of growth}{34}
+\indexentry{performance error}{34}
+\indexentry{Milgram, Stanley}{35}
+\indexentry{small world experiment}{35}
+\indexentry{Kansas}{35}
+\indexentry{Wichita, Kansas}{35}
+\indexentry{Massachusetts}{35}
+\indexentry{Sharon, Massachusetts}{35}
+\indexentry{six degrees}{35}
+\indexentry{hop}{35}
+\indexentry{social network}{35}
+\indexentry{local connection}{35}
+\indexentry{Watts, Duncan}{36}
+\indexentry{Strogatz, Steven}{36}
+\indexentry{small world   network}{36}
+\indexentry{random graph}{36}
+\indexentry{regular graph}{36}
+\indexentry{clustering}{36}
+\indexentry{path length}{36}
+\indexentry{clique}{36}
+\indexentry{generative model}{36}
+\indexentry{rewire}{36}
+\indexentry{parameter}{36}
+\indexentry{clustering coefficient}{36}
+\indexentry{Dijkstra, Edsger}{37}
+\indexentry{Little Book of Semaphores@{\em The Little Book of Semaphores}}{37}
+\indexentry{shortest path}{37}
+\indexentry{single source shortest path}{37}
+\indexentry{Dijkstra's algorithm}{37}
+\indexentry{breadth-first search}{37}
+\indexentry{BFS}{37}
+\indexentry{source node}{37}
+\indexentry{queue}{37}
+\indexentry{labelling nodes}{38}
+\indexentry{small world phenomenon}{38}
+\indexentry{robust}{38}
+\indexentry{shortest path}{38}
+\indexentry{all pairs shortest path}{38}
+\indexentry{planetary motion}{38}
+\indexentry{universal gravitation}{38}
+\indexentry{explanatory model}{39}
+\indexentry{equation-based model}{39}
+\indexentry{mathematical proof}{39}
+\indexentry{proof}{39}
+\indexentry{abstract model}{39}
+\indexentry{simulation-based model}{39}
+\indexentry{Zipf's law}{41}
+\indexentry{frequency}{41}
+\indexentry{rank}{41}
+\indexentry{parameter}{41}
+\indexentry{logarithm}{41}
+\indexentry{log-log plot}{41}
+\indexentry{Hist@{\tt Hist}}{41}
+\indexentry{cumulative distribution}{42}
+\indexentry{summary statistic}{42}
+\indexentry{histogram}{42}
+\indexentry{bin size}{42}
+\indexentry{cumulative distribution function}{42}
+\indexentry{CDF}{42}
+\indexentry{Cdf@{\tt Cdf}}{42}
+\indexentry{pyplot@{\tt pyplot}}{43}
+\indexentry{plotting CDFs}{43}
+\indexentry{order of growth}{43}
+\indexentry{empirical distribution}{43}
+\indexentry{continuous distribution}{44}
+\indexentry{normal distribution}{44}
+\indexentry{Gaussian distribution}{44}
+\indexentry{exponential distribution}{44}
+\indexentry{parameter}{44}
+\indexentry{complementary distribution}{44}
+\indexentry{random module@{\tt random} module}{44}
+\indexentry{Pareto distribution}{44}
+\indexentry{Pareto, Vilfredo}{44}
+\indexentry{parameter}{45}
+\indexentry{long tail}{45}
+\indexentry{80/20 rule}{45}
+\indexentry{scale}{45}
+\indexentry{scale-free}{45}
+\indexentry{Pareto World}{45}
+\indexentry{log-log plot}{45}
+\indexentry{random module@{\tt random} module}{45}
+\indexentry{population}{46}
+\indexentry{U.S. Census Bureau}{46}
+\indexentry{topology}{46}
+\indexentry{movie actor}{46}
+\indexentry{world-wide web}{46}
+\indexentry{electrical power grid}{46}
+\indexentry{degree}{46}
+\indexentry{power law}{46}
+\indexentry{generative model}{46}
+\indexentry{preferential attachment}{46}
+\indexentry{rich get richer}{46}
+\indexentry{scale-free network}{46}
+\indexentry{scaling distribution}{46}
+\indexentry{Watts-Strogatz model}{47}
+\indexentry{Barabasi-Albert model@\Barabasi-Albert model}{47}
+\indexentry{log-log plot}{47}
+\indexentry{Zipf plot}{47}
+\indexentry{complementary CDF}{47}
+\indexentry{power law}{47}
+\indexentry{degree}{47}
+\indexentry{rank}{48}
+\indexentry{noise}{48}
+\indexentry{robust}{48}
+\indexentry{Stanford Large Network Dataset Collection}{48}
+\indexentry{six degrees}{49}
+\indexentry{explanatory model}{49}
+\indexentry{system}{49}
+\indexentry{observable}{49}
+\indexentry{model}{49}
+\indexentry{behavior}{49}
+\indexentry{analogy}{49}
+\indexentry{argument by analogy}{49}
+\indexentry{proof}{49}
+\indexentry{mathematical proof}{49}
+\indexentry{abstract model}{49}
+\indexentry{weak ties}{50}
+\indexentry{preferential attachment}{50}
+\indexentry{Kuhn, Thomas}{50}
+\indexentry{Structure of Scientific Revolutions@{\it The Structure of Scientific Revolutions}}{50}
+\indexentry{theory choice}{50}
+\indexentry{objectivity}{50}
+\indexentry{cellular automaton}{51}
+\indexentry{time step}{51}
+\indexentry{state}{51}
+\indexentry{rule}{51}
+\indexentry{deterministic}{51}
+\indexentry{Wolfram, Stephen}{51}
+\indexentry{1-D cellular automaton}{51}
+\indexentry{neighbor}{52}
+\indexentry{neighborhoos}{52}
+\indexentry{rule table}{52}
+\indexentry{state}{52}
+\indexentry{enumeration}{52}
+\indexentry{triangle of influence}{52}
+\indexentry{implementing cellular automata}{53}
+\indexentry{NumPy}{53}
+\indexentry{array}{53}
+\indexentry{nested list}{53}
+\indexentry{reference}{53}
+\indexentry{CA@{\tt CA}}{53}
+\indexentry{zeros@{\tt zeros}}{54}
+\indexentry{array indexing}{54}
+\indexentry{array slice}{54}
+\indexentry{order of growth}{54}
+\indexentry{abstract class}{54}
+\indexentry{implement}{54}
+\indexentry{interface}{54}
+\indexentry{CADrawer@{\tt CADrawer}}{54}
+\indexentry{UnimplementedMethodException@{\tt UnimplementedMethodException}}{55}
+\indexentry{instantiate}{55}
+\indexentry{pyplot}{55}
+\indexentry{Python Imaging Library}{55}
+\indexentry{PIL}{55}
+\indexentry{Postscript}{55}
+\indexentry{EPS}{55}
+\indexentry{CircularCA}{56}
+\indexentry{ghost cells}{56}
+\indexentry{classifying cellular automata}{56}
+\indexentry{Rule 18}{56}
+\indexentry{Sierpi\'{n}ski triangle}{56}
+\indexentry{randomness}{56}
+\indexentry{Class 3 behavior}{56}
+\indexentry{Rule 30}{56}
+\indexentry{pseudo-random number generator}{57}
+\indexentry{PRNG}{57}
+\indexentry{linear congruential generator}{57}
+\indexentry{period}{57}
+\indexentry{deterministic}{57}
+\indexentry{New Kind of Science@{\it A New Kind of Science}}{57}
+\indexentry{DieHarder}{57}
+\indexentry{random module@{\tt random} module}{57}
+\indexentry{Rule 30}{58}
+\indexentry{determinism}{58}
+\indexentry{causation}{58}
+\indexentry{Newtonian mechanics}{58}
+\indexentry{Laplace, Pierre-Simon}{58}
+\indexentry{Laplace's Demon}{58}
+\indexentry{entropy}{58}
+\indexentry{radioactive decay}{58}
+\indexentry{quantum mechanics}{58}
+\indexentry{chaos}{59}
+\indexentry{complex behavior}{59}
+\indexentry{simple rules}{59}
+\indexentry{free will}{59}
+\indexentry{Turing complete}{59}
+\indexentry{universality}{59}
+\indexentry{Cook, Matthew}{59}
+\indexentry{Rule 110}{59}
+\indexentry{spaceships}{61}
+\indexentry{universality}{61}
+\indexentry{Turing machine}{61}
+\indexentry{Turing, Alan}{61}
+\indexentry{register}{61}
+\indexentry{tape}{61}
+\indexentry{read/write head}{61}
+\indexentry{cell}{61}
+\indexentry{computable function}{61}
+\indexentry{tautology}{61}
+\indexentry{lambda calculus}{62}
+\indexentry{Church-Turing thesis}{62}
+\indexentry{principle of computational equivalence}{62}
+\indexentry{New Kind of Science@{\it A New Kind of Science}}{62}
+\indexentry{Class 4 behavior}{62}
+\indexentry{busy beaver}{62}
+\indexentry{falsifiability}{62}
+\indexentry{Popper, Karl}{63}
+\indexentry{universal common descent}{63}
+\indexentry{special creation}{63}
+\indexentry{prediction}{63}
+\indexentry{Haldane, J.~B.~S.}{63}
+\indexentry{beetles}{63}
+\indexentry{demarcation problem}{63}
+\indexentry{mathematics}{63}
+\indexentry{physical model}{64}
+\indexentry{cone snail}{64}
+\indexentry{abstract model}{64}
+\indexentry{realistic model}{64}
+\indexentry{argument by analogy}{64}
+\indexentry{Game of Life}{67}
+\indexentry{Conway, John H.}{67}
+\indexentry{Gardner, Martin}{67}
+\indexentry{torus}{67}
+\indexentry{grid}{67}
+\indexentry{Moore neighborhood}{67}
+\indexentry{neighborhood}{67}
+\indexentry{totalistic}{67}
+\indexentry{complex behavior}{67}
+\indexentry{Turing complete}{67}
+\indexentry{universal}{67}
+\indexentry{unbounded}{68}
+\indexentry{implementing Game of Life}{68}
+\indexentry{SciPy}{68}
+\indexentry{convolution}{68}
+\indexentry{kernel}{68}
+\indexentry{weight}{68}
+\indexentry{Life@{\tt Life}}{68}
+\indexentry{animation}{69}
+\indexentry{pyplot}{69}
+\indexentry{LifeViewer@{\tt LifeViewer}}{69}
+\indexentry{color map}{69}
+\indexentry{pseudocolor plot}{69}
+\indexentry{Think Python@{\em Think Python}}{70}
+\indexentry{Game of Life patterns}{70}
+\indexentry{glider}{70}
+\indexentry{spaceship}{70}
+\indexentry{Methuselah}{70}
+\indexentry{r-pentomino}{70}
+\indexentry{glider gun}{71}
+\indexentry{puffer train}{71}
+\indexentry{Gosper, Bill}{71}
+\indexentry{Class 4 behavior}{71}
+\indexentry{Turing complete}{71}
+\indexentry{universality}{71}
+\indexentry{realism}{71}
+\indexentry{hurricane}{71}
+\indexentry{philosophical realism}{71}
+\indexentry{perception}{72}
+\indexentry{conception}{72}
+\indexentry{gene}{72}
+\indexentry{postulated entity}{72}
+\indexentry{instrumentalism}{72}
+\indexentry{hurricane}{72}
+\indexentry{Id}{73}
+\indexentry{Freud, Sigmund}{73}
+\indexentry{Superego}{73}
+\indexentry{electron}{73}
+\indexentry{mushroom}{73}
+\indexentry{turmite}{73}
+\indexentry{Turing, Alan}{73}
+\indexentry{Langton's Ant}{73}
+\indexentry{Langton, Chris}{73}
+\indexentry{read-write head}{73}
+\indexentry{simple rules}{73}
+\indexentry{complex behavior}{73}
+\indexentry{period}{73}
+\indexentry{Swampy}{74}
+\indexentry{fractals}{75}
+\indexentry{dimension}{75}
+\indexentry{geometric objects}{75}
+\indexentry{line}{75}
+\indexentry{square}{75}
+\indexentry{cube}{75}
+\indexentry{fractal dimension}{75}
+\indexentry{box-counting dimension}{75}
+\indexentry{log-log plot}{75}
+\indexentry{fractal cellular automaton}{76}
+\indexentry{Rule 254}{76}
+\indexentry{Rule 18}{76}
+\indexentry{fractal}{76}
+\indexentry{Sierpi\'{n}ski's triangle}{76}
+\indexentry{NumPy}{76}
+\indexentry{Bak, Per}{78}
+\indexentry{forest fire model}{78}
+\indexentry{physical model}{78}
+\indexentry{forest fire}{78}
+\indexentry{avalanche}{78}
+\indexentry{earthquake}{78}
+\indexentry{percolation}{78}
+\indexentry{tipping point}{78}
+\indexentry{bond percolation}{78}
+\indexentry{site percolation}{78}
+\indexentry{spanning cluster}{79}
+\indexentry{grid}{79}
+\indexentry{porosity}{79}
+\indexentry{Monte Carlo simulation}{79}
+\indexentry{critical value}{79}
+\indexentry{microcanonical ensemble}{79}
+\indexentry{canonical ensemble}{79}
+\indexentry{Bak, Per}{81}
+\indexentry{self-organized criticality}{81}
+\indexentry{criticality}{81}
+\indexentry{long tail}{81}
+\indexentry{power law}{81}
+\indexentry{fractal geometry}{81}
+\indexentry{self-similarity}{81}
+\indexentry{pink noise}{81}
+\indexentry{1/f noise@$1/f$ noise}{81}
+\indexentry{unstable}{81}
+\indexentry{SOC}{81}
+\indexentry{sand pile model}{82}
+\indexentry{abstract model}{82}
+\indexentry{2-D cellular automaton}{82}
+\indexentry{state}{82}
+\indexentry{grid}{82}
+\indexentry{avalanche}{82}
+\indexentry{fractal dimension}{82}
+\indexentry{spectral density}{82}
+\indexentry{power}{82}
+\indexentry{frequency}{82}
+\indexentry{pitch}{82}
+\indexentry{Hertz}{82}
+\indexentry{harmonics}{82}
+\indexentry{noise}{82}
+\indexentry{Fourier transform}{82}
+\indexentry{angular frequency}{83}
+\indexentry{power spectral density}{83}
+\indexentry{discrete Fourier transform}{83}
+\indexentry{DFT}{83}
+\indexentry{complex@{\tt complex}}{83}
+\indexentry{hoisting}{84}
+\indexentry{order of growth}{84}
+\indexentry{Fast Fourier Transform}{84}
+\indexentry{FFT}{84}
+\indexentry{Danielson-Lanczos Lemma}{84}
+\indexentry{recursive algorithm}{84}
+\indexentry{indexing}{85}
+\indexentry{pink noise}{85}
+\indexentry{1/f noise@$1/f$ noise}{85}
+\indexentry{log-log plot}{85}
+\indexentry{Game of Life}{86}
+\indexentry{self-organized criticality}{86}
+\indexentry{sand pile model}{86}
+\indexentry{reductionist}{86}
+\indexentry{holist}{86}
+\indexentry{analogy}{86}
+\indexentry{holistic model}{87}
+\indexentry{Selfish Gene@{\em The Selfish Gene}}{87}
+\indexentry{Dawkins, Richard}{87}
+\indexentry{evolution}{87}
+\indexentry{meme}{87}
+\indexentry{replicator}{87}
+\indexentry{gene}{87}
+\indexentry{genetics}{87}
+\indexentry{Bak, Per}{87}
+\indexentry{prevalence}{87}
+\indexentry{rice pile model}{87}
+\indexentry{forest fire model}{88}
+\indexentry{Fractal Geometry of Nature@{\em The Fractal Geometry of     Nature}}{88}
+\indexentry{Mandelbrot, Benoit}{88}
+\indexentry{long-tailed   distribution}{88}
+\indexentry{stock market}{88}
+\indexentry{1/f noise@$1/f$ noise}{88}
+\indexentry{earthquake}{88}
+\indexentry{prediction}{88}
+\indexentry{causation}{88}
+\indexentry{normal accident theory}{88}
+\indexentry{Perrow, Charles}{88}
+\indexentry{proximate cause}{89}
+\indexentry{ultimate cause}{89}
+\indexentry{long-tailed distributions}{89}
+\indexentry{Great Man theory}{89}
+\indexentry{Schelling, Thomas}{91}
+\indexentry{agent-based model}{91}
+\indexentry{segregation}{91}
+\indexentry{racism}{91}
+\indexentry{xenophobia}{91}
+\indexentry{causation}{91}
+\indexentry{parameter}{92}
+\indexentry{Big Sort@{\em The Big Sort}}{92}
+\indexentry{Bishop, Bill}{92}
+\indexentry{agent-based model}{92}
+\indexentry{Micromotives and Macrobehavior@{\em Micromotives and Macrobehavior}}{92}
+\indexentry{traffic jam}{93}
+\indexentry{Turtles, Termites and Traffic Jams@{\em Turtles, Termites and Traffic Jams}}{93}
+\indexentry{Resnick, Mitchell}{93}
+\indexentry{Swampy}{93}
+\indexentry{parameter}{93}
+\indexentry{Reynolds, Craig}{93}
+\indexentry{boid}{94}
+\indexentry{local information}{94}
+\indexentry{Visual package}{94}
+\indexentry{VPython}{94}
+\indexentry{carrot}{94}
+\indexentry{weighted sum}{95}
+\indexentry{flock behavior}{95}
+\indexentry{parameter}{95}
+\indexentry{Prisoner's Dilemma}{95}
+\indexentry{game theory}{96}
+\indexentry{iterated Prisoner's dilemma}{96}
+\indexentry{strategy}{96}
+\indexentry{Axelrod, Robert}{96}
+\indexentry{emergence}{97}
+\indexentry{emergent property}{97}
+\indexentry{brick wall}{97}
+\indexentry{New Kind of Science@{\it A New Kind of Science}}{97}
+\indexentry{Wolfram, Stephen}{97}
+\indexentry{natural law}{97}
+\indexentry{computationally irreducible}{97}
+\indexentry{shortcut}{97}
